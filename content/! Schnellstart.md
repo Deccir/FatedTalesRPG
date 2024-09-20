@@ -152,10 +152,10 @@ Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wiede
 Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt.  
 Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen weiteren Würfel.   
   
-# Belastbarkeit / Belastungspunkte und Stress  
-**Belastbarkeit** oder auch einfach **Belastungspunkte** repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Charakterbogen V1.png|Charakterbogen]] dargestellt.  
+# Belastbarkeit / Belastbarkeitspunkte und Stress  
+**Belastbarkeit** bzw. **Belastbarkeitspunkte** repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Charakterbogen V1.png|Charakterbogen]] dargestellt.  
 Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
-- Erleidet dein Charakter **Stress** so verliert er einen **Belastungspunkt** (**BP**). In diesem Fall markierst du ein bisher unmarkiertes Kästchen auf deinem Charakterbogen.  
+- Erleidet dein Charakter **Stress** so verliert er einen **Belastbarkeitspunkt** (**BP**). In diesem Fall markierst du ein bisher unmarkiertes Kästchen auf deinem Charakterbogen.  
 - Wenn dein Charakter **Stress** erleidet, aber keine unmarkierten **BP** mehr hat, hat dies narrativ schwerwiegende Konsequenzen für ihn. In diesem Fall erleidet er einen [[! Schnellstart#Nachteil|Nachteil]].  
 - Der häufigste Grund, durch den ein Charakter **Stress** erleidet, ist das Scheitern einer [[Probe|Probe]].   
 	- Ist die Probe ein **Patzer**, erleidet dein Charakter für jede geworfene 1 einen weiteren Punkt **Stress**.   
