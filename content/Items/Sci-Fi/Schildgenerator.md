@@ -1,9 +1,12 @@
 ---
 share: true
 category: Items/Sci-Fi
+tags:
+  - Item/Schild
+  - Startausrüstung
+  - SciFi
 ---
   
-#Item/Schild #Startausrüstung #SciFi  
 Ein Schildgenerator.  
 Er kann nicht mit anderen Schildgeneratoren zusammen verwendet werden.  
 **Nutzungen**:  1  

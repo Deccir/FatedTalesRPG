@@ -1,9 +1,11 @@
 ---
 share: true
 category: Items/Sci-Fi/Fortgeschritten
+tags:
+  - Item/Waffe
+  - SciFi
 ---
   
-#Item/Waffe #SciFi   
 Eine experimentelle Pistole  
 **Nutzungen**:  3  
 **Fähigkeit**: Führt der Träger erfolgreich eine Probe aus, bei der er mit dieser Waffe angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen.  

@@ -1,9 +1,12 @@
 ---
 share: true
 category: Items/Fantasy
+tags:
+  - Item/Waffe
+  - Startausrüstung
+  - Fantasy
 ---
   
-#Item/Waffe #Startausrüstung #Fantasy   
 Eine sehr gut verarbeitetes Schwert  
 **Nutzungen**:  1  
 **Fähigkeit**: Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen.  
