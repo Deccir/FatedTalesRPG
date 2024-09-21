@@ -1,9 +1,11 @@
 ---
 share: true
 category: Items/Sci-Fi/Fortgeschritten
+tags:
+  - Item/Schild
+  - SciFi
 ---
   
-#Item/Schild #SciFi   
 Ein experimenteller Schildgenerator.  
 Er kann nicht mit anderen Schildgeneratoren zusammen verwendet werden.  
 **Nutzungen**:  2  
