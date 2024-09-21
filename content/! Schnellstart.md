@@ -114,11 +114,11 @@ Als grober Leitfaden, hier eine Liste von möglichen Effekten mit den jeweiligen
 Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wieder.    
   
 #### Beispielrüstungen  
-| File                                                                                                | Fähigkeit                                                                                                                                                                    | Nutzungen | AP-Kosten |  
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- |  
-| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                               | 1         | 1         |  
-| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 1         | 2         |  
-| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 2         | 5         |  
+| File                                                                                                | Fähigkeit                                                                                                                                                                            | Nutzungen | AP-Kosten |  
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
+| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 1         | 1         |  
+| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 1         | 2         |  
+| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 2         | 5         |  
   
   
 #### Beispielwaffen  
