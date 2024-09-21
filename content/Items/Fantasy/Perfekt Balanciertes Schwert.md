@@ -7,7 +7,7 @@ category: Items/Fantasy
 Eine sehr gut verarbeitetes Schwert  
 **Nutzungen**:  1  
 **Fähigkeit**: Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.  
-**Regeneration**: Wird bei einer Rast [[02 - Kreativ/Meine Spiele/PnP/FatedTalesRPG/Items/Gute Verpflegung|02 - Kreativ/Meine Spiele/PnP/FatedTalesRPG/Items/Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.  
+**Regeneration**: Wird bei einer Rast [[Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.  
 **AP-Kosten**: 1  
   
 %%  
