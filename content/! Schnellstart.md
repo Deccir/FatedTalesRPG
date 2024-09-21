@@ -13,7 +13,7 @@ Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nacht
   
   
 # Charaktererstellung  
-Fülle auf dem [[./Charakterbogen V1.png|Charakterbogen]] die Felder entsprechend der folgenden Beschreibungen mit [[! Schnellstart#Merkmale|Merkmalen]].  
+Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder entsprechend der folgenden Beschreibungen mit [[! Schnellstart#Merkmale|Merkmalen]].  
   
 ## Wer ist dein Charakter (Charaktereigenschaften)  
 - **Ziele (1 Stück)**: Was will dein Charakter erreichen? Was motiviert ihn dazu, jeden Tag weiterzumachen? Warum hat er sich entschieden, ein Abenteurer zu werden? Was erhofft er sich am Ende seiner Reise?  
@@ -101,7 +101,7 @@ Im Verlauf des Abenteuers sammelt dein Charakter weitere **AP**.
 ## Was besitzt dein Charakter  
 - Erst einmal besitzt dein Charakter immer alles (was man realistisch gesehen mit sich tragen kann), was er benötigt, um seine Fertigkeiten oder Klassen auszuspielen.  
 - Außerdem besitzt er **Grundlegende Reiseausrüstung**, wie einen Schlafsack, einfache Kochutensilien, eine wasserdichte Plane und Reisekleidung. Auch hat dein Charakter immer genügend Proviant dabei. (Diese Dinge müssen nicht extra notiert werden)  
-- Er besitzt [[./Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
+- Er besitzt [[./Items/Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
 - Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen. Zum Start des Abenteuers erhält er **5 (AP)**, von denen er sich diese kaufen kann. (Siehe [[! Schnellstart#Gegenstände|Gegenstände]])  
   
 ### Gegenstände  
@@ -114,18 +114,18 @@ Als grober Leitfaden, hier eine Liste von möglichen Effekten mit den jeweiligen
 Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wieder.    
   
 #### Beispielrüstungen  
-| File                                                                                        | Fähigkeit                                                                                                                                                                    | Nutzungen | AP-Kosten |  
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- |  
-| [[./Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                               | 1         | 1         |  
-| [[./Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 1         | 2         |  
-| [[./Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 2         | 5         |  
+| File                                                                                                | Fähigkeit                                                                                                                                                                    | Nutzungen | AP-Kosten |  
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- |  
+| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                               | 1         | 1         |  
+| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 1         | 2         |  
+| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen SP, kann er diese Fähigkeit nutzen, um stattdessen keinen SP zu verlieren. | 2         | 5         |  
   
   
 #### Beispielwaffen  
-| File                                                                                                                | Fähigkeit                                                                                                                                                          | Nutzungen | AP-Kosten |  
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 1         | 1         |  
-| [[./Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 1         |  
+| File                                                                                                                        | Fähigkeit                                                                                                                                                          | Nutzungen | AP-Kosten |  
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
+| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 1         | 1         |  
+| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 1         |  
   
   
 # Proben  
@@ -153,7 +153,7 @@ Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Char
 Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen weiteren Würfel.   
   
 # Belastbarkeit / Belastbarkeitspunkte und Stress  
-**Belastbarkeit** bzw. **Belastbarkeitspunkte** repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Charakterbogen V1.png|Charakterbogen]] dargestellt.  
+**Belastbarkeit** bzw. **Belastbarkeitspunkte** repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
 Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
 - Erleidet dein Charakter **Stress** so verliert er einen **Belastbarkeitspunkt** (**BP**). In diesem Fall markierst du ein bisher unmarkiertes Kästchen auf deinem Charakterbogen.  
 - Wenn dein Charakter **Stress** erleidet, aber keine unmarkierten **BP** mehr hat, hat dies narrativ schwerwiegende Konsequenzen für ihn. In diesem Fall erleidet er einen [[! Schnellstart#Nachteil|Nachteil]].  
@@ -188,7 +188,7 @@ Ein Nachteil ist ein spezielles [[! Schnellstart#Merkmale|Merkmal]], das die Bee
   
 ## Rasten  
 Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.  
-- **(Normale) Rast**: Erfordert 10 Stunden Ruhe, davon 8 Stunden Schlaf. Während dieser Zeit kann man Gegenstände wie [[./Gute Verpflegung|Gute Verpflegung]] nutzen, um **BP** zu regenerieren.  
+- **(Normale) Rast**: Erfordert 10 Stunden Ruhe, davon 8 Stunden Schlaf. Während dieser Zeit kann man Gegenstände wie [[./Items/Gute Verpflegung|Gute Verpflegung]] nutzen, um **BP** zu regenerieren.  
 - **Lange Rast**: Wenn ein Charakter eine ganze Woche in der Unterkunft einer Stadt rastet, regeneriert er sämtliche fehlenden **BP** und Nutzungen seiner Ausrüstung (sofern diese keine Nachteile besitzen)  
   
 # Kämpfe  
@@ -215,9 +215,10 @@ Da dieses System keine direkten Lebenspunkte hat kann jede Aktion, die im Kampf 
   
 > [!example]- Beispiele  
 > - Stoße einen Gegner von einer Klippe anstatt ihn einfach anzugreifen. (Schwere Probe aber bei Erfolg ist der Gegner direkt besiegt)  
+> - Stelle dich direkt 3 Gegnern anstatt nur einem. (Schwere Probe aber bei Erfolg fügst du allen 3 Gegnern Schaden zu)  
 > - Wirf eine Fackel auf das Netz der Riesenspinne, um es in Brand zu setzen (normal schwere Wurfprobe aber aufgrund von klugem Vorgehen mit großem Effekt)  
 > - Zünde eine Fackel an, damit deine Mitstreiter im Dunkeln sehen können (Keine Probe benötigt, nimmt aber allen Charakteren den Nachteil auf Dunkelheit)  
-> - Einer der Charaktere spielt im Kampf gegen einen Drachen den Lockvogel, sodass der Drache sich auf ihn fokussiert, während die anderen Spieler diesen dann aus dem Hinterhalt angreifen können. (Schwere Probe für den Lockvogel, aber dafür haben die anderen Spieler Vorteil auf alle Angriffe / Schleichaktionen / etc.)  
+> - Einer der Charaktere spielt im Kampf gegen einen Drachen den Lockvogel, sodass der Drache sich auf ihn fokussiert, während die anderen Spieler diesen dann aus dem Hinterhalt angreifen können. (Schwere Probe für den Lockvogel, aber dafür haben die anderen Charaktere Vorteil auf alle Angriffe / Schleichaktionen / etc.)  
   
 # Anmerkungen  
 ## Bessere Fragen stellen  
@@ -226,5 +227,5 @@ Gewisse Fragen an den Spielleiter können diesen teilweise aus dem Konzept werfe
 > Statt einem **Sehe ich im Raum eine mögliche Waffe?** überlege selbst, was es dort vielleicht geben könnte und frage dann speziell danach. Bspw. **Sehe ich in dieser Küche ein Messer?** / **Steht hier im Stall ein Wassertrog, in den ich den Kopf vom Gegner drücken kann?** / **Steht der Gegner unter einem vielleicht nicht 100% gesicherten Kronleuchter?** Dies nimmt dem Spielleiter Arbeit ab, da er nicht erst überlegen muss, was sich alles im Raum befindet und gibt dir direkt die Information, an der du interessiert bist.   
   
 # Links  
-[[./Charakterbogen V1.png|Charakterbogen]]  
-[[./Gute Verpflegung|Gute Verpflegung]]
+[[./Assets/Charakterbogen V1.png|Charakterbogen]]  
+[[./Items/Gute Verpflegung|Gute Verpflegung]]
