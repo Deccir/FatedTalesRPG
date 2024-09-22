@@ -8,13 +8,13 @@ tags:
   
 Eine tragbare Gatling.  
 **Nutzungen**:  1  
-**Fähigkeit**: Nutze einen Zug, um die Gatling zu aktivieren. Laufen wird erschwert aber für die nächsten 4 Züge, sofern du die Gatling hältst, erhältst du +1 Würfel auf Schießproben.  
-**Regeneration**: Wird bei einer Rast [[Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.  
-**AP-Kosten**: 5  
+**Fähigkeit**: Nutze einen Zug, um die Gatling zu aktivieren. Laufen wird erschwert aber für die nächsten 4 Züge, sofern du die Gatling hältst, erhältst du +2 Würfel auf Schießproben und verursachst doppelten Schaden.  
+**Regeneration**: Nach einer Aktion zum Nachladen, regeneriert dieser Gegenstand 1 Nutzung.  
+**AP-Kosten**: 30 (nicht käuflich)  
   
 %%  
-[Fähigkeit:: Nutze einen Zug, um die Gatling zu aktivieren. Laufen wird erschwert aber für die nächsten 4 Züge, sofern du die Gatling hältst, erhältst du +1 Würfel auf Schießproben.]  
+[Fähigkeit:: Nutze einen Zug, um die Gatling zu aktivieren. Laufen wird erschwert aber für die nächsten 4 Züge, sofern du die Gatling hältst, erhältst du +2 Würfel auf Schießproben und verursachst doppelten Schaden.]  
 [Nutzungen:: 1]  
-[Regeneration:: Wird bei einer Rast [[../../Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.]   
-[AP:: 5]  
+[Regeneration:: Nach einer Aktion zum Nachladen, regeneriert dieser Gegenstand 1 Nutzung.]  
+[AP:: 30 (nicht käuflich)]  
 %%

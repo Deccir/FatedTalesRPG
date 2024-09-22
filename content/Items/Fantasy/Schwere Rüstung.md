@@ -8,14 +8,14 @@ tags:
 ---
   
 Eine Rüstung die den Träger vor Schaden schützen kann.  
-**Nutzungen**:  2  
+**Nutzungen**:  3  
 **Fähigkeit**: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren.  
-**Regeneration**: Wird bei einer Rast [[Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.  
-**AP-Kosten**: 5  
+**Regeneration**: Nachdem eine Probe auf Reparatur gelungen ist regeneriert dieser Gegenstand 1 Nutzung.  
+**AP-Kosten**: 28  
   
 %%  
 [Fähigkeit:: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren.]  
-[Nutzungen:: 2]  
-[Regeneration:: Wird bei einer Rast [[../Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.]   
-[AP:: 5]  
+[Nutzungen:: 3]  
+[Regeneration:: Nachdem eine Probe auf Reparatur gelungen ist regeneriert dieser Gegenstand 1 Nutzung.]   
+[AP:: 28]  
 %%
