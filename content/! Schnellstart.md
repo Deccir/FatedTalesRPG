@@ -58,13 +58,13 @@ Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder ents
   
 ## Was kann dein Charakter (Charakterfähigkeiten)  
 Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter diese Dinge kann.  
-Dein Charakter startet mit **12 Abenteuer Punkten (AP)**. Mit diesen können Level in Klassen und Fertigkeiten gekauft werden.  
-Im Verlauf des Abenteuers sammelt dein Charakter weitere **AP**.  
+Dein Charakter startet mit **12 Erfahrungspunkten (EP)**. Mit diesen können Level in Klassen und Fertigkeiten gekauft werden.  
+Im Verlauf des Abenteuers sammelt dein Charakter weitere **EP**. **EP** können nicht auf andere Charaktere übertragen werden.  
   
 - **Klasse (2 Stück)**: Die Klassen deines Charakters beschreiben größere Themengebiete, in denen er gut ist.  
 	- Welchen Beruf hat dein Charakter ausgeübt? Hat er magische Veranlagungen oder technische Implantate, die ihm besondere Fähigkeiten geben? Hat er aufgrund seiner Spezies oder seiner Herkunft besondere Fähigkeiten?  
 	- Deine Klassen starten beide auf Level 2.  
-	- Das Erhöhen des Levels einer Klasse kostet **1 AP**  
+	- Das Erhöhen des Levels einer Klasse kostet **1 EP**  
 	- Voraussetzungen für Level 3+:  
     	- Um eine Klasse auf Level 3 zu bringen muss die Summe aller **Fertigkeitslevel** mindestens 30 betragen    
     	- Um eine Klasse auf Level 4 zu bringen muss die Summe aller **Fertigkeitslevel** mindestens 40 betragen    
@@ -81,7 +81,7 @@ Im Verlauf des Abenteuers sammelt dein Charakter weitere **AP**.
 	> - Nicht mehr durch sein Fleisch zurückgehalten (Kybernetische Implantate für übermenschliche Kraft)  
   
 - **Fertigkeit**: Jede Fertigkeit soll nur auf eine einzelne Handlung angewendet werden können.  
-	- Jedes Level einer Fertigkeit kostet **1 AP**  
+	- Jedes Level einer Fertigkeit kostet **1 EP**  
     	- Voraussetzungen für Level 4+:  
         	- Um eine Fertigkeit auf Level X zu bringen, benötigt man mindestens eine weitere Fertigkeit auf Level (X - 1), wie man nach der Erhöhung auf Level X insgesamt hätte. (Also seine dritte Fertigkeit auf Level 5 zu bringen erfordert, dass man 4 zusätzliche Fertigkeiten auf Level 4 hat und als Folge 5 weitere Fertigkeiten auf Level 3)  
   
@@ -102,30 +102,46 @@ Im Verlauf des Abenteuers sammelt dein Charakter weitere **AP**.
 - Erst einmal besitzt dein Charakter immer alles (was man realistisch gesehen mit sich tragen kann), was er benötigt, um seine Fertigkeiten oder Klassen auszuspielen.  
 - Außerdem besitzt er **Grundlegende Reiseausrüstung**, wie einen Schlafsack, einfache Kochutensilien, eine wasserdichte Plane und Reisekleidung. Auch hat dein Charakter immer genügend Proviant dabei. (Diese Dinge müssen nicht extra notiert werden)  
 - Er besitzt [[./Items/Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
-- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen. Zum Start des Abenteuers erhält er **5 (AP)**, von denen er sich diese kaufen kann. (Siehe [[! Schnellstart#Gegenstände|Gegenstände]])  
+- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen. Zum Start des Abenteuers erhält er **20 Ausrüstungspunkte (AP)**, von denen er sich diese kaufen kann. (Siehe [[! Schnellstart#Gegenstände|Gegenstände]]). **AP** können beliebig zwischen Charakteren übertragen werden.  
   
 ### Gegenstände  
-Gegenstände mit besonderen Effekten kosten **AP**. Du kannst bestehende Gegenstände auch verbessern. Jeder weitere Effekt kostet dabei **1 AP** zusätzlich. Jede weitere Nutzung des Effekts wird als zusätzlicher Effekt betrachtet.  
-Als grober Leitfaden, hier eine Liste von möglichen Effekten mit den jeweiligen AP kosten.  
-- **1 AP**: Eine spezifische Probe neu würfeln  
-- **2 AP**: Eine spezifische Probe bestehen, obwohl sie eigentlich fehlgeschlagen ist  
-- **1 AP**: Bei einer bestandenen spezifischen Probe passiert zusätzlich etwas, was einer zweiten erfolgreichen Probe entspricht  
+Gegenstände mit besonderen Effekten kosten **AP**.   
+- Jeder Gegenstand kann nur eine Art von Effekt haben.   
+- Jede weitere Nutzung kostet nochmal so viel wie der Effekt selbst  
+- Die Regeneration eines Gegenstandes kann unabhängig von den Effekten verbessert werden.  
+  
+**Effekt:**  
+Als grober Leitfaden, hier eine Liste von möglichen Effekten mit den jeweiligen **AP** kosten.  
+- **3 AP**: Eine spezifische Probe neu würfeln  
+- **6 AP**: Eine spezifische Probe bestehen, obwohl sie eigentlich fehlgeschlagen ist  
+- **6 AP**: Bei einer bestandenen spezifischen Probe passiert zusätzlich etwas, was einer zweiten erfolgreichen Probe entspricht  
+- **3 AP**: Erhalte für 1 Zug +1 Würfel auf eine spezifische Probe  
+	- Verbesserung: **+3 AP**: Verlängere die Dauer des Effekts um 1 Zug  
+	- Verbesserung: **+6 AP**: Erhöhe den Würfelbonus auf +2  
+  
+**Regeneration:**  
+Standardmäßig regenerieren sich alle Nutzungen automatisch nach einer Rast.  
+**AP** Kosten für die erweiterte Regeneration der Nutzungen eines Items:  
+- **10**: Eine Nutzung nach einer erfolgreichen Probe (Reparatur, Nachladen, etc.)  
+	- Verbesserung: **+10**: Für jeweils eine weitere Nutzung nach einer erfolgreichen Probe  
+- **25**: Eine Nutzung automatisch nach einer Minute  
+	- Verbesserung: **+15**: Eine Nutzung automatisch jeden Zug  
   
 Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wieder.    
   
 #### Beispielrüstungen  
 | File                                                                                                | Fähigkeit                                                                                                                                                                            | Nutzungen | AP-Kosten |  
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 1         | 1         |  
-| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 1         | 2         |  
-| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 2         | 5         |  
+| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 1         | 13        |  
+| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 3         | 19        |  
+| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 3         | 28        |  
   
   
 #### Beispielwaffen  
 | File                                                                                                                        | Fähigkeit                                                                                                                                                          | Nutzungen | AP-Kosten |  
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 1         | 1         |  
-| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 1         |  
+| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 2         | 12        |  
+| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 13        |  
   
   
 # Proben  
