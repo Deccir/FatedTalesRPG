@@ -6,7 +6,7 @@ Diese dient dazu, klar zu stellen, welche Erwartungen jeder an das Spiel hat (au
   
 Hier sind ein paar Punkte die man klären sollte.  
 - **Was ist ok**: Um einen generellen Eindruck der Erwartung aller zu bekommen sollte jeder am Tisch zu den folgenden Aspekten eine eine Wertung von 1 bis 10 abgeben.  
-	- **Gewalt**: 1: Ab 6 freigegeben - 10: Keine Jugendfreigabe  
+	- **Gewalt**: 1: Keine Altersbeschränkung - 10: Indiziert  
 	- **Sexualität**: 1: maximal Händchen halten - 10: Keine Jugendfreigabe  
 	- **Ernsthaftigkeit**: 1: Humor an jeder Ecke - 10: Genozid, Kriegsverbrechen, etc  
 	- **Realismus**: 1: sehr realistisch - 10: verrückter als deine wildesten Träume  
