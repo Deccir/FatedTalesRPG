@@ -27,12 +27,33 @@ Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder ents
 - **Markenzeichen (0 bis 2 Stück)**: Was ist eine Eigenheit deines Charakters, die keinen mechanischen Nutzen oder Nachteil erzeugt. Hat er beispielsweise eine besondere Art zu reden? Kämpft er auf eine besondere Weise?  
 - **Sonstige Merkmale**: Diese Felder werden bei der Charaktererstellung leer gelassen. Sie sind dafür gedacht, erst während des Abenteuers gefüllt zu werden.  
   
-> [!example] [[Beispielmerkmale|Hier ein paar Beispiele]]   
+> [!example] [[./Beispielmerkmale|Hier ein paar Beispiele]]   
+  
+## Auf welchem Level ist dein Charakter  
+Zu Beginn des Abenteuers legt der Spielleiter fest, wie erfahren eure Charaktere sind, und wie gut ihre Ausrüstung ist. Dies beeinflusst die Menge von **Erfahrungspunkten** und **Ausrüstungspunkte**, die euch zu Beginn zur Verfügung stehen.   
+  
+**Erfahrungspunkte (EP)** kannst du gegen Level in Fertigkeiten und Klassen eintauschen. **EP** können nicht auf andere Charaktere übertragen werden.  
+  
+| Level        | EP  |  
+| ------------ | --- |  
+| Anfänger     | 12  |  
+| Durchschnitt | 24  |  
+| Experte      | 36  |  
+| Meister      | 48  |  
+| Legendär     | 60  |  
+  
+**Ausrüstungspunkte (AP)** kannst du gegen weitere Ausrüstung eintauschen. **AP** können beliebig zwischen Charakteren übertragen werden.  
+  
+| Level       | AP   |  
+| ----------- | ---- |  
+| Simpel      | 20   |  
+| Mittelmäßig | 50   |  
+| Verbessert  | 100  |  
+| Erstklassig | 150  |  
+| Legendär    | 220+ |  
   
 ## Was kann dein Charakter (Charakterfähigkeiten)  
 Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter diese Dinge kann.  
-Dein Charakter startet mit **12 Erfahrungspunkten (EP)**. Mit diesen können Level in Klassen und Fertigkeiten gekauft werden.  
-Im Verlauf des Abenteuers sammelt dein Charakter weitere **EP**. **EP** können nicht auf andere Charaktere übertragen werden.  
   
 - **Klasse (2 Stück)**: Die Klassen deines Charakters beschreiben größere Themengebiete, in denen er gut ist.  
 	- Welchen Beruf hat dein Charakter ausgeübt? Hat er magische Veranlagungen oder technische Implantate, die ihm besondere Fähigkeiten geben? Hat er aufgrund seiner Spezies oder seiner Herkunft besondere Fähigkeiten?  
@@ -79,7 +100,6 @@ Im Verlauf des Abenteuers sammelt dein Charakter weitere **EP**. **EP** können 
 - Außerdem besitzt er **Grundlegende Reiseausrüstung**, wie einen Schlafsack, einfache Kochutensilien, eine wasserdichte Plane und Reisekleidung. Auch hat dein Charakter immer genügend Proviant dabei. (Diese Dinge müssen nicht extra notiert werden)  
 - Er besitzt [[./Items/Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
 - Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen.  (Siehe das nächste Kapitel [[! Schnellstart#3. Besondere Ausrüstung|3. Besondere Ausrüstung]])  
-	- Zum Start des Abenteuers erhält er **20 Ausrüstungspunkte (AP)**, von denen er sich diese kaufen kann. **AP** können beliebig zwischen Charakteren übertragen werden.  
   
 ---  
   
@@ -132,9 +152,10 @@ Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wiede
 ---  
   
 # 4. Belastbarkeit und Stress  
-**Belastbarkeit** bzw. **Belastbarkeitspunkte** repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
+**Belastbarkeit** bzw. **Belastbarkeitspunkte** (**BP**) repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
 Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
-- Erleidet dein Charakter **Stress** so verliert er einen **Belastbarkeitspunkt** (**BP**). In diesem Fall markierst du ein bisher unmarkiertes Kästchen auf deinem Charakterbogen.  
+- Erleidet dein Charakter **Stress** so verliert er einen **BP**. In diesem Fall markierst du ein bisher unmarkiertes Kästchen unter **Belastbarkeitspunkte** auf deinem Charakterbogen.  
+	- Hat dein Charakter den **Stress** bei der Ausübung einer seiner Fertigkeiten oder Klassen erlitten, kannst du stattdessen auch deren **BP** markieren.  
 - Wenn dein Charakter **Stress** erleidet, aber keine unmarkierten **BP** mehr hat, hat dies narrativ schwerwiegende Konsequenzen für ihn. In diesem Fall erleidet er einen [[! Schnellstart#Nachteil|Nachteil]].  
   
 Jeder Charakter hat 10 **BP**.  
@@ -175,17 +196,30 @@ Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.
 	- Wird der Charakter von jemand anderem **unterstützt**, so erhältst du **einen Würfel**.  
 	- Sofern dein Charakter mindestens 1 Nachteil hat, der die Probe negativ beeinflusst, wird sein **Würfelpool halbiert** (aufgerundet). Das trifft auch zu, wenn dein Charakter einen Gegenstand mit einem hinderlichen Nachteil benutzt. Die Anzahl der Nachteile ist dabei egal. Der Würfelpool kann nur einmal halbiert werden.  
 	- weitere Anpassungen des Würfelpools liegen im Ermessen des Spielleiters.  
-1. Dann würfelst du deinen Würfelpool und zählst die Erfolge  
+4. Dann würfelst du deinen Würfelpool und zählst die Erfolge  
 	- Jeder Würfel, der eine **3, 4 oder 5** zeigt, gilt als **ein Erfolg**  
 	- Jede **6** gilt als **zwei Erfolge**  
 	- Jede **1 reduziert die Erfolge um einen**  
-2. Sage dem Spielleiter, die Summe der Erfolge, die du geworfen hast und er beschreibt, was daraufhin passiert.  
-	- Ist die Probe ein Fehlschlag, so erleidet der Charakter einen Punkt **Stress**.   
-	- Ist die Summer der Erfolge **0 oder negativ**, so gilt die Probe als **Patzer** und der Charakter erleidet zusätzlichen **Stress** in Höhe der negativen Summe der Erfolge. Außerdem sollte narrativ etwas zusätzlich schlechtes passieren oder das Versuchte spektakulär scheitern.  
+5. Nenne dem Spielleiter die Summe der Erfolge die du geworfen hast und er beschreibt, was daraufhin passiert.  
+	- Ist die Probe ein Fehlschlag, so erleidet dein Charakter einen Punkt **Stress**.   
+	- Ist die Summer der Erfolge **0 oder negativ**, so gilt die Probe als **Patzer** und der Charakter erleidet zusätzlichen **Stress** in Höhe der negativen Summe der Erfolge. Außerdem scheitert das Versuchte auf spektakuläre Weise und es passiert narrativ möglicherweise etwas, was die aktuelle Situation der Charaktere verschlechtert.  
+	- Bietet es die Situation an, kann der Spielleiter auch dich dazu auffordern, zu beschreiben, was geschieht. Bleibe bei deiner Beschreibung realistisch, außer der Spielleiter gibt dir die Erlaubnis, ausgefallen zu werden  
+  
+> [!example]- Zusätzliche negative Auswirkungen  
+> - Die Aktion geht nach hinten los und schadet deinen Verbündeten  
+> - Eine neue Gefahr erscheint  
+> - Die aktuelle Gefahr wird schlimmer  
+> - Du verlierst die Oberhand in der Situation  
+> - Du verlierst oder zerstörst etwas  
+> - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
+> - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
+  
+  
+## Probe teilweise bestanden (Optional)  
+Wird für die Probe mehr als 1 Erfolg benötigt aber du würfelst 1 Erfolg zu wenig, so kann der Spielleiter dich vor die Entscheidung stellen ob dein Charakter die Probe zu einem Preis besteht.  
   
 ## Unterstützen  
-Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt.  
-Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen weiteren Würfel.   
+Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
   
 ---  
   
