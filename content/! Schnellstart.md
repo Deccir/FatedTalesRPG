@@ -32,25 +32,10 @@ Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder ents
 ## Auf welchem Level ist dein Charakter  
 Zu Beginn des Abenteuers legt der Spielleiter fest, wie erfahren eure Charaktere sind, und wie gut ihre Ausrüstung ist. Dies beeinflusst die Menge von **Erfahrungspunkten** und **Ausrüstungspunkte**, die euch zu Beginn zur Verfügung stehen.   
   
-**Erfahrungspunkte (EP)** kannst du gegen Level in Fertigkeiten und Klassen eintauschen. **EP** können nicht auf andere Charaktere übertragen werden.  
+- **Erfahrungspunkte (EP)** kannst du gegen Level in Fertigkeiten und Klassen eintauschen. Sie können nicht auf andere Charaktere übertragen werden.  
+- **Ausrüstungspunkte (AP)** kannst du gegen weitere Ausrüstung eintauschen. Sie können beliebig zwischen Charakteren übertragen werden.  
   
-| Level        | EP  |  
-| ------------ | --- |  
-| Anfänger     | 12  |  
-| Durchschnitt | 24  |  
-| Experte      | 36  |  
-| Meister      | 48  |  
-| Legendär     | 60  |  
-  
-**Ausrüstungspunkte (AP)** kannst du gegen weitere Ausrüstung eintauschen. **AP** können beliebig zwischen Charakteren übertragen werden.  
-  
-| Level       | AP   |  
-| ----------- | ---- |  
-| Simpel      | 20   |  
-| Mittelmäßig | 50   |  
-| Verbessert  | 100  |  
-| Erstklassig | 150  |  
-| Legendär    | 220+ |  
+> [!info] [[./! Schnellstart Erweitert#Charakter- und Ausrüstungslevel|Charakter- und Ausrüstungslevel Tabellen]]   
   
 ## Was kann dein Charakter (Charakterfähigkeiten)  
 Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter diese Dinge kann.  
@@ -132,22 +117,9 @@ Standardmäßig regenerieren sich alle Nutzungen automatisch nach einer Rast.
 - **25**: Eine Nutzung automatisch nach einer Minute  
 	- Verbesserung: **+15**: Eine Nutzung automatisch jeden Zug  
   
+> [!example] [[./! Schnellstart Erweitert#Beispielausrüstung|Beispielausrüstung]]   
+  
 Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wieder.    
-  
-#### Beispielrüstungen  
-| File                                                                                                | Fähigkeit                                                                                                                                                                            | Nutzungen | AP-Kosten |  
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 1         | 13        |  
-| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 3         | 19        |  
-| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 3         | 28        |  
-  
-  
-#### Beispielwaffen  
-| File                                                                                                                        | Fähigkeit                                                                                                                                                          | Nutzungen | AP-Kosten |  
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 2         | 12        |  
-| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 13        |  
-  
   
 ---  
   
@@ -168,15 +140,26 @@ Ein Nachteil ist ein spezielles [[! Schnellstart#Merkmale|Merkmal]], das die Bee
 - Gewisse Nachteile können mit der Zeit auch schlimmer werden, wenn sie nicht behandelt werden.  
 - Genauso können Nachteile aber auch durch Aktionen abgeschwächt werden.  
 - Nachteile haben negative narrative Auswirkungen aber können unter Umständen auch vorteilhaft sein (siehe Beispiele)  
-- Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus.  
   
 > [!example]- Beispiele  
 > - Ein **gebrochener Arm** beeinflusst alles negativ, was diesen Arm benötigt. Außerdem heilt er nicht von heute auf morgen. Wird er ignoriert oder nicht gescheit verarztet, könnte sich das ganze sogar noch verschlimmern. Ein Arzt könnte den Nachteil behandeln und zu sowas wie **stabilisierter gebrochener Arm** machen, was nicht mehr so schlimm ist, bzw. den Charakter weniger stark beeinflusst. Um diesen speziellen Nachteil loszuwerden, benötigt es Wochen der Schonung und eine gute medizinische Versorgung. Versucht der Charakter Leute davon zu überzeugen, dass er in sehr schlechter körperlicher Verfassung ist, würde ihm der gebrochene Arm natürlich helfen, da er ja tatsächlich verwundet ist.  
 > - Eine **ausgerenkte Schulter** behindert zwar alle Aktionen, die diese Schulter beanspruchen, aber könnte durch ein paar gelernte Handgriffe wieder eingerenkt werden. Es benötigt nur jemanden, der dies kann.  
 > - Ist ein **Kopfgeld** auf einen Charakter ausgesetzt, sollte dieser sich lieber bedeckt halten. Dieser Nachteil würde mechanisch wahrscheinlich wenig beeinflussen, aber dafür narrativ umso mehr. In der Öffentlichkeit könnten ihn Kopfgeldjäger, Wachen oder sogar das einfache Volk als gesuchte Person erkennen. Ein Kopfgeld loszuwerden könnte auf unterschiedliche Weise erreicht werden. Man könnte den Auftraggeber erledigen, mit ihm verhandeln oder sich, wie jeder normale Mensch es machen würde, einer Gesichtsoperation unterziehen.  
   
+### Gegenstände mit Nachteil  
 Gegenstände können auch Nachteile erhalten.   
 - Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#3. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
+  
+> [!example]- Beispiel  
+> - Ein *angeknackster* Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
+> - Ist der Stab ganz *gebrochen*, kann er nicht mehr zum Zaubern genutzt werden.  
+  
+> [!tip]- Kreativität und Improvisation  
+> Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird.  
+> Die Plasmapistole mit *Kurzschluss* könnte überladen werden und so eine Plasmaexplosion erzeugen. Die Waffe würde dabei zwar zerstört werden, hätte aber als improvisierte Bombe gedient.  
+  
+## Tod / Aus dem Abenteuer ausscheiden  
+Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus. Die genaue Art und Weise, wie dies geschieht, liegt im Ermessen des Spielleiters. Der Charakter könnte sterben, sich zur Ruhe setzen, nachts fliehen, seinen Tod vortäuschen oder dem Wahnsinn verfallen – dies sind nur einige Beispiele. Der Spieler sollte keinen direkten Einfluss darauf haben, wie das Ende seines Charakters gestaltet wird, es sollte ihm aber erlaubt werden eine letzte Sache zu sagen.  
   
 ## Rasten  
 Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.  
@@ -214,22 +197,25 @@ Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.
 > - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
 > - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
   
+> [!info] Reicht eine Probe nicht aus, um ein Unterfangen gescheit darstellen zu können, so kann der Spielleiter sie zu [[./! Schnellstart Erweitert#Herausforderungen|Herausforderungen]] machen.  
   
-## Probe teilweise bestanden (Optional)  
-Wird für die Probe mehr als 1 Erfolg benötigt aber du würfelst 1 Erfolg zu wenig, so kann der Spielleiter dich vor die Entscheidung stellen ob dein Charakter die Probe zu einem Preis besteht.  
+> [!info] [[./! Schnellstart Erweitert#Probe teilweise bestanden|Weitere Optionale Regeln]]   
   
 ## Unterstützen  
 Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
   
+  
 ---  
   
 # 6. Kämpfe  
-Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden.)  
-Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren.  
+Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden)  
+Kämpfe sind das einfachste Beispiel für [[./! Schnellstart Erweitert#Herausforderungen|Herausforderungen]]. Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen diese auf 0 reduziert werden.  
   
 **Der Kampfablauf ist recht simpel:**  
+Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren. Danach haben Spieler und Gegner immer abwechselnd eine Runde, in der sie agieren können.  
+  
 - Jeder Spielercharakter kann pro Runde maximal 1 Zug tätigen.   
-- Wenn alle am Zug waren oder ihren ausgesetzt haben, sind die Gegner dran.   
+- Wenn alle am Zug waren oder den ihren ausgesetzt haben, sind die Gegner dran.   
 - Für jeden Zug, den die Spielercharaktere ausgeführt und nicht ausgesetzt haben, tätigen die Gegner einen Zug.  
   
 > [!info]- Züge aussetzen   
@@ -254,9 +240,20 @@ Da dieses System keine direkten Lebenspunkte hat kann jede Aktion, die im Kampf 
 > - Zünde eine Fackel an, damit deine Mitstreiter im Dunkeln sehen können (Keine Probe benötigt, nimmt aber allen Charakteren den Nachteil auf Dunkelheit)  
 > - Einer der Charaktere spielt im Kampf gegen einen Drachen den Lockvogel, sodass der Drache sich auf ihn fokussiert, während die anderen Spieler diesen dann aus dem Hinterhalt angreifen können. (Schwere Probe für den Lockvogel, aber dafür haben die anderen Charaktere Vorteil auf alle Angriffe / Schleichaktionen / etc.)  
   
+## Rule of Cool  
+Ein ganz wichtiges Konzept beim Kämpfen (außer vielleicht in Horror- oder Dark-Fantasy-Szenarien) ist die **Rule of Cool**. Diese beschreibt den Ansatz, dass coole oder spektakuläre Aktionen wichtiger sind als absolute Logik und Realismus. Es geht darum Spaß zu haben und fantastische Abenteuer zu erleben.  
+> [!example]- Beispiel  
+> - Als Magier einen Blitz fangen und auf die Gegner werfen  
+> - Als Krieger von der Burgmauer springen, im Fall einen Speer werfen und dann unbeschadet auf einem Gegner landen.  
+  
 ---  
   
 # 7. Links  
 [[./Bessere Fragen|Bessere Fragen]]  
 [[./Assets/Charakterbogen V1.png|Charakterbogen]]  
-[[./Items/Gute Verpflegung|Gute Verpflegung]]
+[[./Items/Gute Verpflegung|Gute Verpflegung]]  
+[[./! Schnellstart Erweitert#Unzufrieden mit deinem Charakter|Unzufrieden mit deinem Charakter]]  
+  
+[[./! Schnellstart Erweitert#Hab ich den Gegenstand dabei?|Sonderregel: Hab ich den Gegenstand dabei]]  
+[[./! Schnellstart Erweitert#Heldenhafter Tod|Sonderregel: Heldenhafter Tod]]  
+[[./! Schnellstart Erweitert#Freizeit und Crafting|Sonderregel: Freizeit und Crafting]]
