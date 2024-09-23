@@ -151,12 +151,12 @@ Gegenstände können auch Nachteile erhalten.
 - Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#3. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
   
 > [!example]- Beispiel  
-> - Ein *angeknackster* Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
-> - Ist der Stab ganz *gebrochen*, kann er nicht mehr zum Zaubern genutzt werden.  
+> - Ein **angeknackster** Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
+> - Ist der Stab ganz **gebrochen**, kann er nicht mehr zum Zaubern genutzt werden.  
   
 > [!tip]- Kreativität und Improvisation  
 > Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird.  
-> Die Plasmapistole mit *Kurzschluss* könnte überladen werden und so eine Plasmaexplosion erzeugen. Die Waffe würde dabei zwar zerstört werden, hätte aber als improvisierte Bombe gedient.  
+> Die Plasmapistole mit **Kurzschluss** könnte überladen werden und so eine Plasmaexplosion erzeugen. Die Waffe würde dabei zwar zerstört werden, hätte aber als improvisierte Bombe gedient.  
   
 ## Tod / Aus dem Abenteuer ausscheiden  
 Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus. Die genaue Art und Weise, wie dies geschieht, liegt im Ermessen des Spielleiters. Der Charakter könnte sterben, sich zur Ruhe setzen, nachts fliehen, seinen Tod vortäuschen oder dem Wahnsinn verfallen – dies sind nur einige Beispiele. Der Spieler sollte keinen direkten Einfluss darauf haben, wie das Ende seines Charakters gestaltet wird, es sollte ihm aber erlaubt werden eine letzte Sache zu sagen.  
@@ -226,7 +226,7 @@ Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren
 > Man kann Kämpfe auch so führen, dass pro Runde jeweils nur 1 Spieler einen Zug ausführt. Dann führt als Folge auch nur 1 Gegner einen Zug aus und man kann besser auf die Gegner Aktionen reagieren.  
   
 Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#5. Proben|Probe]].   
-**Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** In dem Fall entsprechen die benötigten Erfolge dem Schaden, den der Gegner nimmt. Daher gibt es in diesem System auch keine kritischen Erfolge.  
+**Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** In dem Fall entsprechen die benötigten Erfolge dem Schaden, den der Gegner nimmt. Daher gibt es in diesem System auch keine kritischen Erfolge, denn du selbst kannst beeinflussen, wie anspruchsvoll eine Probe ist.  
 **Auch kluge Aktionen können eine größere Auswirkung auf den Kampf haben ohne dabei sonderlich erschwert zu werden.** (Siehe Beispiele)  
 Willst du mit einem anderen Spielercharakter zusammenarbeiten, könnt ihr eure Züge gemeinsam nehmen.  
   
