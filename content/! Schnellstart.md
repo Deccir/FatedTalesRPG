@@ -15,7 +15,7 @@ Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nacht
 ---  
   
 # 2. Charaktererstellung  
-Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder entsprechend der folgenden Beschreibungen mit [[! Schnellstart#Merkmale|Merkmalen]].  
+Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder entsprechend der folgenden Beschreibungen mit [[! Schnellstart#1. Merkmale|Merkmalen]].  
   
 ## Wer ist dein Charakter (Charaktereigenschaften)  
 - **Ziele (1 Stück)**: Was will dein Charakter erreichen? Was motiviert ihn dazu, jeden Tag weiterzumachen? Warum hat er sich entschieden, ein Abenteurer zu werden? Was erhofft er sich am Ende seiner Reise?  
@@ -135,7 +135,7 @@ Jede Fertigkeit hat 2 **BP**.
 Jede Klasse hat 4 **BP**.  
   
 ## Nachteil  
-Ein Nachteil ist ein spezielles [[! Schnellstart#Merkmale|Merkmal]], das die Beeinträchtigung des Charakters beschreibt.  
+Ein Nachteil ist ein spezielles [[! Schnellstart#1. Merkmale|Merkmal]], das die Beeinträchtigung des Charakters beschreibt.  
 - Nachteile können nicht durch eine einfache Rast entfernt werden, sondern erfordern größere Anstrengungen / Zeit / spezielle Bedingungen.  
 - Gewisse Nachteile können mit der Zeit auch schlimmer werden, wenn sie nicht behandelt werden.  
 - Genauso können Nachteile aber auch durch Aktionen abgeschwächt werden.  
@@ -225,7 +225,7 @@ Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren
 >  
 > Man kann Kämpfe auch so führen, dass pro Runde jeweils nur 1 Spieler einen Zug ausführt. Dann führt als Folge auch nur 1 Gegner einen Zug aus und man kann besser auf die Gegner Aktionen reagieren.  
   
-Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#Proben|Probe]].   
+Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#5. Proben|Probe]].   
 **Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** In dem Fall entsprechen die benötigten Erfolge dem Schaden, den der Gegner nimmt. Daher gibt es in diesem System auch keine kritischen Erfolge.  
 **Auch kluge Aktionen können eine größere Auswirkung auf den Kampf haben ohne dabei sonderlich erschwert zu werden.** (Siehe Beispiele)  
 Willst du mit einem anderen Spielercharakter zusammenarbeiten, könnt ihr eure Züge gemeinsam nehmen.  
@@ -254,6 +254,7 @@ Ein ganz wichtiges Konzept beim Kämpfen (außer vielleicht in Horror- oder Dark
 [[./Items/Gute Verpflegung|Gute Verpflegung]]  
 [[./! Schnellstart Erweitert#Unzufrieden mit deinem Charakter|Unzufrieden mit deinem Charakter]]  
   
+Weitere Regeln:  
 [[./! Schnellstart Erweitert#Hab ich den Gegenstand dabei?|Sonderregel: Hab ich den Gegenstand dabei]]  
 [[./! Schnellstart Erweitert#Heldenhafter Tod|Sonderregel: Heldenhafter Tod]]  
 [[./! Schnellstart Erweitert#Freizeit und Crafting|Sonderregel: Freizeit und Crafting]]
