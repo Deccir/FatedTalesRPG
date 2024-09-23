@@ -2,7 +2,7 @@
 share: true
 ---
 Dieses System ist ein generisches Regelwerk für **Pen and Paper (PnP)** Rollenspiele mit Fokus auf wenige einfache Regeln und starke Anpassbarkeit. Hierbei schlüpfen die Spieler in die Haut unterschiedlicher Charaktere, die gemeinsam fesselnde Abenteuer erleben.   
-Der Kern des Spiels liegt im gemeinsamen Erzählen einer Geschichte. Deshalb begrenzt das System, die erforderlich Mathematik auf einstellige Addition und Subtraktion und verzichtet auf Sondermechaniken, die nur in gewissen Situationen genutzt werden.  
+Der Kern des Spiels liegt im gemeinsamen Erzählen einer Geschichte. Deshalb begrenzt das System, die erforderliche Mathematik auf einstellige Addition und Subtraktion und verzichtet auf Sondermechaniken, die nur in gewissen Situationen genutzt werden.  
   
 # Was man zum Spielen braucht  
 - ein paar Freunde  
@@ -18,7 +18,7 @@ Erfahrungsgemäß liegt die perfekte Gruppengröße zwischen 4 und 6 Spielern un
 # Begriffserklärung  
 - **Spieler**: Jeder Spieler übernimmt, während des Spiels, die Kontrolle über einen Charakter. Der Spieler beschreibt im Spielverlauf, was der Charakter tun zu versucht, sagt, empfindet, etc. Es ist empfohlen, dass jeder Spieler die Rolle seines Charakters wirklich (schau-)spielt. Dazu sollte er es vermeiden, über den Charakter in der dritten Person zu sprechen, und stattdessen die Aktionen des Charakters in der ersten Person beschreiben.  
 - **Spielleiter**: Eine Person am Tisch übernimmt die Rolle des Spielleiters. Er beschreibt die Welt für die restlichen Spieler. Das bedeutet, er erklärt was ihre Charaktere sehen, was um sie herum passiert, und auch in manchen Situationen, was die Charaktere fühlen.  
-- **NPC**: Ein Non-Player-Charakter oder auch Nicht-Spieler-Charakter ist ein Charakter, der vom Spielleiter und nicht von einem der Spieler gespielt wird.  
+- **NPC / NSC**: Ein Non-Player-Charakter oder auch Nicht-Spieler-Charakter ist ein Charakter, der vom Spielleiter und nicht von einem der Spieler gespielt wird.  
 - **Metagaming**: Metagaming bezeichnet die Situation, in der ein Spieler Wissen besitzt, welches der Charakter im Spiel nicht haben sollte, er den Charakter aber trotzdem so handeln lässt, als ob er es hätte. ^7933f6  
   
 # Regel Nr. 1  
