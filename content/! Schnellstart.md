@@ -9,7 +9,6 @@ Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nacht
   
 > [!example]- Beispiele  
 > - **das Gesetz steht über allem** beschreibt nicht die Fähigkeiten, sondern die Moral des Charakters. Er würde alles tun, um die Gesetze und Regeln des Landes durchzusetzen, selbst wenn er durch seine Handlungen Leid erzeugt. Er würde diese Ungerechtigkeit natürlich immer noch erkennen, aber Ordnung zu bewahren wäre für ihn schlichtweg wichtiger.  
-> - **Keine Manieren** ist sehr klar aber **Frisst wie ein Schwein** ist mindestens genauso klar und wird einen stärkeren Eindruck hinterlassen. Der negative Aspekt dieses Merkmals sollte auf der Hand liegen. In einer Situation, in der der Charakter beispielsweise beim Essen die Aufmerksamkeit aller auf sich ziehen sollte, würde es aber ein Vorteil sein.  
 > - **schnöseliger Adelssohn** wird sich in Situationen, in denen Etikette wichtig ist, definitiv als Vorteil erweisen. Aber wenn er versucht, in der Unterstadt Informationen zu beschaffen, werden ihn alle, aufgrund seiner hochgestochene Art zu reden, als jemanden identifizieren können, der dort nicht hingehört und erst recht nicht her kommt.  
   
 ---  
@@ -66,7 +65,6 @@ Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter die
 > - Fischerjunge  
 > - Nicht mehr durch sein Fleisch zurückgehalten (Kybernetische Implantate für übermenschliche Kraft)  
 >   
->   
 > Fertigkeiten:  
 > - Klettern  
 > - Schlösser knacken  
@@ -75,6 +73,9 @@ Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter die
 > - Wissen über Heilkräuter  
 > - Der Zauber **Feuerball**  
   
+ > [!info]- Übernatürliche Kräfte  
+> - Übernatürliche Kräfte benötigen ein bisschen mehr Absprache, da sie sonst die sowieso schon lose Balance des Spiels komplett über den Haufen werfen können. Siehe hierfür [[./! Schnellstart Erweitert#Übernatürliche Kräfte|Übernatürliche Kräfte]].   
+> - Kurz gesagt gibt es 2 Möglichkeiten mit ihnen umzugehen. Entweder kann die Nutzung dieser Kräfte anspruchsvoller sein, da man im Zweifel Dinge mit ihnen machen kann, für die andere Charaktere Items oder sonstige Ressourcen benötigen. Oder es besteht bei jeder Nutzung die Chance, dass das Versuchte nach hinten losgeht und dem Nutzer und seinen Verbündeten schadet.  
   
 > [!info]- Wichtiger Hinweis zum Kämpfen  
 > Dein Charakter kann nicht von Natur aus kämpfen. Besitzt er weder eine Klasse noch eine Fertigkeit, die seine Fähigkeit anzugreifen beschreibt, wird er eine schwere Zeit haben Gegner zu treffen. Wichtig hierbei, nur weil dein Charakter eine Fertigkeit hat, die beschreibt, dass er angreifen kann, heißt das nicht, dass er auch ausweichen kann. Über eine entsprechende Klasse kann beides geregelt werden, aber Ausweichen und Angreifen wären 2 separate Fertigkeiten.  
@@ -155,8 +156,8 @@ Gegenstände können auch Nachteile erhalten.
 > - Ist der Stab ganz **gebrochen**, kann er nicht mehr zum Zaubern genutzt werden.  
   
 > [!tip]- Kreativität und Improvisation  
-> Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird.  
-> Die Plasmapistole mit **Kurzschluss** könnte überladen werden und so eine Plasmaexplosion erzeugen. Die Waffe würde dabei zwar zerstört werden, hätte aber als improvisierte Bombe gedient.  
+> Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird und sich dann als Vorteilhaft erweist.  
+> Ein Lasergewehr mit **defektem Kühlsystem**, könnte absichtlich zum Überhitzen gebracht werden, um ein Feuer zu entzünden oder das wärmegesteuerte Zielsuchsystem einer Rakete zu täuschen.  
   
 ## Tod / Aus dem Abenteuer ausscheiden  
 Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus. Die genaue Art und Weise, wie dies geschieht, liegt im Ermessen des Spielleiters. Der Charakter könnte sterben, sich zur Ruhe setzen, nachts fliehen, seinen Tod vortäuschen oder dem Wahnsinn verfallen – dies sind nur einige Beispiele. Der Spieler sollte keinen direkten Einfluss darauf haben, wie das Ende seines Charakters gestaltet wird, es sollte ihm aber erlaubt werden eine letzte Sache zu sagen.  
@@ -197,19 +198,16 @@ Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.
 > - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
 > - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
   
-> [!info] Reicht eine Probe nicht aus, um ein Unterfangen gescheit darstellen zu können, so kann der Spielleiter sie zu [[./! Schnellstart Erweitert#Herausforderungen|Herausforderungen]] machen.  
-  
-> [!info] [[./! Schnellstart Erweitert#Probe teilweise bestanden|Weitere Optionale Regeln]]   
+> [!info] [[./! Schnellstart Erweitert#Probe erweitert|Zusätzliche Regeln]]   
   
 ## Unterstützen  
 Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
-  
   
 ---  
   
 # 6. Kämpfe  
 Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden)  
-Kämpfe sind das einfachste Beispiel für [[./! Schnellstart Erweitert#Herausforderungen|Herausforderungen]]. Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen diese auf 0 reduziert werden.  
+Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen diese auf 0 reduziert werden.  
   
 **Der Kampfablauf ist recht simpel:**  
 Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren. Danach haben Spieler und Gegner immer abwechselnd eine Runde, in der sie agieren können.  
@@ -257,4 +255,5 @@ Ein ganz wichtiges Konzept beim Kämpfen (außer vielleicht in Horror- oder Dark
 Weitere Regeln:  
 [[./! Schnellstart Erweitert#Hab ich den Gegenstand dabei?|Sonderregel: Hab ich den Gegenstand dabei]]  
 [[./! Schnellstart Erweitert#Heldenhafter Tod|Sonderregel: Heldenhafter Tod]]  
-[[./! Schnellstart Erweitert#Freizeit und Crafting|Sonderregel: Freizeit und Crafting]]
+[[./! Schnellstart Erweitert#Freizeit und Crafting|Sonderregel: Freizeit und Crafting]]  
+[[./! Schnellstart Erweitert#Merkmale gegen den Charakter verwenden|Sonderregel: Merkmale gegen Charaktere verwenden]]
