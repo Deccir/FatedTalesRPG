@@ -9,6 +9,8 @@ Dies ist die Dokumentation zu dem Pen and Paper System "Fated Tales" von Deccir.
 - Und eine Empfehlung, was man vor dem Spielen geklärt haben sollte [[./Session 0|Hier]].
 - Ein interaktiver Charakterbogen befindet sich [hier](https://deccir.github.io/FatedTalesCharacterSheet/index.html). (Bei der Weiterleitung wird aus irgendeinem Grund das Styling nicht geladen. Die Seite neuladen oder in einem neuen Fenster öffnen behebt das.)
 
+Für Spielleiter ist [[./! Spielleiter Leitfaden|Hier]] eine Seite mit Hilfestellungen und weiteren Regeln, die ihm helfen sollen, das Spiel besser leiten zu können
+
 
 
 Die beiden größten Inspriationen waren [Fate Core](https://fate-srd.com/fate-core) und [Tavern Tales Smooth](https://smoothrpg.wordpress.com/).
