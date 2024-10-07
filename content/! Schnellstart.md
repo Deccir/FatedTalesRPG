@@ -198,8 +198,6 @@ Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.
 > - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
 > - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
   
-> [!info] [[./! Schnellstart Erweitert#Probe erweitert|Zusätzliche Regeln]]   
-  
 ## Unterstützen  
 Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
   
@@ -207,7 +205,6 @@ Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Char
   
 # 6. Kämpfe  
 Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden)  
-Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen diese auf 0 reduziert werden.  
   
 **Der Kampfablauf ist recht simpel:**  
 Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren. Danach haben Spieler und Gegner immer abwechselnd eine Runde, in der sie agieren können.  
@@ -224,7 +221,7 @@ Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren
 > Man kann Kämpfe auch so führen, dass pro Runde jeweils nur 1 Spieler einen Zug ausführt. Dann führt als Folge auch nur 1 Gegner einen Zug aus und man kann besser auf die Gegner Aktionen reagieren.  
   
 Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#5. Proben|Probe]].   
-**Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** In dem Fall entsprechen die benötigten Erfolge dem Schaden, den der Gegner nimmt. Daher gibt es in diesem System auch keine kritischen Erfolge, denn du selbst kannst beeinflussen, wie anspruchsvoll eine Probe ist.  
+**Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** Daher gibt es in diesem System auch keine kritischen Erfolge, denn du selbst kannst beeinflussen, wie anspruchsvoll eine Probe ist.  
 **Auch kluge Aktionen können eine größere Auswirkung auf den Kampf haben ohne dabei sonderlich erschwert zu werden.** (Siehe Beispiele)  
 Willst du mit einem anderen Spielercharakter zusammenarbeiten, könnt ihr eure Züge gemeinsam nehmen.  
   
@@ -234,6 +231,7 @@ Da dieses System keine direkten Lebenspunkte hat kann jede Aktion, die im Kampf 
 > [!example]- Beispiele  
 > - Stoße einen Gegner von einer Klippe anstatt ihn einfach anzugreifen. (Schwere Probe aber bei Erfolg ist der Gegner direkt besiegt)  
 > - Stelle dich direkt 3 Gegnern anstatt nur einem. (Schwere Probe aber bei Erfolg fügst du allen 3 Gegnern Schaden zu)  
+> - Dem Gegner, der bei den Ölfässern steht die Fackel aus der Hand schießen, damit diese das Öl entzündet (Schwere Probe, da man versucht die Hand des Gegners zu treffen, aber beim Erfolg explodieren die Fässer und können verheerenden Schaden anrichten)  
 > - Wirf eine Fackel auf das Netz der Riesenspinne, um es in Brand zu setzen (normal schwere Wurfprobe aber aufgrund von klugem Vorgehen mit großem Effekt)  
 > - Zünde eine Fackel an, damit deine Mitstreiter im Dunkeln sehen können (Keine Probe benötigt, nimmt aber allen Charakteren den Nachteil auf Dunkelheit)  
 > - Einer der Charaktere spielt im Kampf gegen einen Drachen den Lockvogel, sodass der Drache sich auf ihn fokussiert, während die anderen Spieler diesen dann aus dem Hinterhalt angreifen können. (Schwere Probe für den Lockvogel, aber dafür haben die anderen Charaktere Vorteil auf alle Angriffe / Schleichaktionen / etc.)  
@@ -242,7 +240,7 @@ Da dieses System keine direkten Lebenspunkte hat kann jede Aktion, die im Kampf 
 Ein ganz wichtiges Konzept beim Kämpfen (außer vielleicht in Horror- oder Dark-Fantasy-Szenarien) ist die **Rule of Cool**. Diese beschreibt den Ansatz, dass coole oder spektakuläre Aktionen wichtiger sind als absolute Logik und Realismus. Es geht darum Spaß zu haben und fantastische Abenteuer zu erleben.  
 > [!example]- Beispiel  
 > - Als Magier einen Blitz fangen und auf die Gegner werfen  
-> - Als Krieger von der Burgmauer springen, im Fall einen Speer werfen und dann unbeschadet auf einem Gegner landen.  
+> - Als Krieger von der Burgmauer springen, während des Falls einen Speer werfen und dann unbeschadet einen der Gegner als Sprungpolster nutzen.  
   
 ---  
   
@@ -252,8 +250,6 @@ Ein ganz wichtiges Konzept beim Kämpfen (außer vielleicht in Horror- oder Dark
 [[./Items/Gute Verpflegung|Gute Verpflegung]]  
 [[./! Schnellstart Erweitert#Unzufrieden mit deinem Charakter|Unzufrieden mit deinem Charakter]]  
   
-Weitere Regeln:  
-[[./! Schnellstart Erweitert#Hab ich den Gegenstand dabei?|Sonderregel: Hab ich den Gegenstand dabei]]  
-[[./! Schnellstart Erweitert#Heldenhafter Tod|Sonderregel: Heldenhafter Tod]]  
-[[./! Schnellstart Erweitert#Freizeit und Crafting|Sonderregel: Freizeit und Crafting]]  
-[[./! Schnellstart Erweitert#Merkmale gegen den Charakter verwenden|Sonderregel: Merkmale gegen Charaktere verwenden]]
+[[./! Schnellstart Erweitert|Weitere Regeln]]  
+  
+[[./! Spielleiter Leitfaden|Hilfestellungen für Spielleiter]]
