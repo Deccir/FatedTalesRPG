@@ -30,6 +30,9 @@ Nicht du alleine, sondern alle am Tisch, auch der Spielleiter. Ihr setzt euch hi
 Arbeite mit den anderen Spielern und dem Spielleiter zusammen.   
 **PnP**s funktionieren nur, wenn alle am Tisch zusammenarbeiten. Eure Charaktere müssen nicht so super miteinander auskommen. Solange alle am Tisch sich wohlfühlen und [[Einleitung#Regel Nr. 1|Regel Nr. 1]] beachten, können eure Charaktere alles Mögliche anstellen.  
   
+# Regel Nr. 3  
+Die Regeln in diesem System sind nur eine grobe Anleitung zum Spielen. Wenn euch als Gruppe etwas nicht nicht gefällt, besprecht mit eurem Spielleiter mögliche Änderungen. Auch dem Spielleiter ist es freigestellt die Regeln so anzupassen wie es ihm passt. Es ist euer Spiel und damit auch euer Ziel [[Einleitung#Regel Nr. 1|Regel Nr. 1]] so gut es geht zu befolgen.  
+  
 # Leitfäden  
 ## Verhalten am Tisch  
 - Lass den Spielleiter ausreden.  
