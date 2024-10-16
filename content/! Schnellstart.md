@@ -119,10 +119,10 @@ Diese Effekte können jedoch nicht beliebig oft eingesetzt werden, sondern sind 
 > Eine Pistole, die einmalig einen **durchdringenden Schuss** abfeuern kann, kann im Anschluss ganz normal weiter schießen. Nur eben die Fähigkeit **durchdringenden Schuss** kann bis zur nächsten Rast nicht mehr verwendet werden.  
   
 ## Gegenstände entwerfen / kaufen  
-**Ausrüstungspunkte (AP)** sind die Währung des Spiels, mit der du Ausrüstung erwerben kannst, die besondere Effekte besitzt. Du kannst die Effekte von Gegenständen auch nachträglich verbessern und anpassen. Kaufs- und Verkaufswerte sind immer identisch, weshalb du dir keine sorgen um schlecht ausgegebene **AP** machen musst, da du sie bei einem passenden Händler einfach zurücktauschen kannst.  
+**Ausrüstungspunkte (AP)** dienen als Währung im Spiel, mit der du besondere Ausrüstungsgegenstände und deren Effekte erwerben kannst. Diese Effekte lassen sich auch im Nachhinein optimieren und anpassen. Da Kauf- und Verkaufswerte stets gleich sind, brauchst du dir keine Sorgen über falsch investierte **AP** zu machen – bei einem geeigneten Händler kannst du sie jederzeit problemlos zurücktauschen.  
   
 **1. Art des Effekts:**  
-Ein Ausrüstungsstück kann einen der folgenden Effekte besitzen.   
+Wähle einen der folgenden Effekte aus, die dein Gegenstand haben soll.  
   
 | **AP** Kosten | Effekt                                                                                      |  
 | ------------- | ------------------------------------------------------------------------------------------- |  
@@ -138,10 +138,11 @@ Definiere eine spezifische Situation, in der der Effekt ausgelöst werden kann.
 > - Wenn ich den Gegner erfolgreich mit meinem Angriff getroffen habe  
   
 **3. Nutzungen:**  
-Jede weitere Nutzung kostet einfach nochmal so viel wie der Effekt selbst.  
+Entscheide wie häufig der Effekt genutzt werden kann.   
+Jede weitere Nutzung wird dabei wie ein weiterer Effekt gehandhabt und kostet entsprechend auch so viel.  
   
 **4. Regeneration:**  
-Jeder Gegenstand regeneriert nach einer Rast, bei der gute Verpflegung genutzt wird automatisch alle Nutzungen.   
+Jeder Gegenstand regeneriert nach einer Rast bei der [[./Items/Gute Verpflegung|Gute Verpflegung]] genutzt wird automatisch alle Nutzungen. Für einen Aufpreis kann der Gegenstand seine Nutzungen zusätzlich auch in anderen Situationen regenerieren.  
   
 | **AP** Kosten | Regeneriert 1 Nutzung:                                       | Einschränkung             |  
 | ------------- | ------------------------------------------------------------ | ------------------------- |  
