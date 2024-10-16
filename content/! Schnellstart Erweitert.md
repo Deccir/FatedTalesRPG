@@ -10,7 +10,7 @@ share: true
 | Durchschnitt | 24  |  
 | Experte      | 36  |  
 | Meister      | 48  |  
-| Legendär     | 60  |  
+| Legendär     | 60+  |  
   
 **Ausrüstungspunkte (AP)** kannst du gegen weitere Ausrüstung eintauschen kannst. Sie können beliebig zwischen Charakteren übertragen werden.  
   
@@ -43,18 +43,19 @@ Allerdings ist hier Vorsicht geboten, da zu häufige und zu starke Erschwernisse
   
 # Beispielausrüstung  
 ## Beispielrüstungen  
-| File                                                                                                | Fähigkeit                                                                                                                                                                            | Nutzungen | AP-Kosten |  
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 1         | 13        |  
-| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Scheitert der Träger bei einer Probe, die ihn physischen Schaden nehmen lässt, kann er diese Fähigkeit nutzen, um die Probe erneut zu würfeln.                                       | 3         | 19        |  
-| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren. | 3         | 28        |  
+| File                                                                                                | Fähigkeit                                             | Auslöser                                        | Nutzungen | AP-Kosten |  
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------- | --------- |  
+| [[./Items/Fantasy/Leichte Rüstung\|Leichte Rüstung]]   | Würfel die Probe zum Ausweichen oder Parieren erneut. | Physischen Schaden durch einen Angriff erlitten | 1         | 18        |  
+| [[./Items/Fantasy/Mittlere Rüstung\|Mittlere Rüstung]] | Würfel die Probe zum Ausweichen oder Parieren erneut. | Physischen Schaden durch einen Angriff erlitten | 3         | 24        |  
+| [[./Items/Fantasy/Schwere Rüstung\|Schwere Rüstung]]   | Würfel die Probe zum Ausweichen oder Parieren erneut. | Physischen Schaden durch einen Angriff erlitten | 6         | 33        |  
   
   
 ## Beispielwaffen  
-| File                                                                                                                        | Fähigkeit                                                                                                                                                          | Nutzungen | AP-Kosten |  
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------- |  
-| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen. | 2         | 12        |  
-| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.     | 1         | 13        |  
+| File                                                                                                                        | Fähigkeit                               | Auslöser                                           | Nutzungen | AP-Kosten |  
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- | --------- | --------- |  
+| [[./Items/Fantasy/Kriegshammer\|Kriegshammer]]                                 | Füge dem Ziel den doppelten Schaden zu. | Erfolgreicher Angriff mit dieser Waffe             | 2         | 18        |  
+| [[./Items/Fantasy/Perfekt Balanciertes Schwert\|Perfekt Balanciertes Schwert]] | Würfel die Probe zum Treffen erneut.    | Ziel wurde mit einem Angriff dieser Waffe verfehlt | 1         | 18        |  
+| [[./Items/Sci-Fi/Querschläger Pistole\|Querschläger Pistole]]                  | Würfel die Probe zum Treffen erneut.    | Ziel wurde mit einem Schuss dieser Waffe verfehlt  | 3         | 9         |  
   
   
   
