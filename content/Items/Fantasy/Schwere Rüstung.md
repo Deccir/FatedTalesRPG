@@ -8,14 +8,16 @@ tags:
 ---
   
 Eine Rüstung die den Träger vor Schaden schützen kann.  
-**Nutzungen**:  3  
-**Fähigkeit**: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren.  
+**Fähigkeit**: Würfel die Probe zum Ausweichen oder Parieren erneut.  
+**Auslöser**: Physischen Schaden durch einen Angriff erlitten  
+**Nutzungen**:  6  
 **Regeneration**: Nachdem eine Probe auf Reparatur gelungen ist regeneriert dieser Gegenstand 1 Nutzung.  
-**AP-Kosten**: 28  
+**AP-Kosten**: 33  
   
 %%  
-[Fähigkeit:: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, kann er diese Fähigkeit nutzen, um stattdessen keinen **BP** zu verlieren.]  
-[Nutzungen:: 3]  
+[Fähigkeit:: Würfel die Probe zum Ausweichen oder Parieren erneut.]  
+[Auslöser:: Physischen Schaden durch einen Angriff erlitten]  
+[Nutzungen:: 6]  
 [Regeneration:: Nachdem eine Probe auf Reparatur gelungen ist regeneriert dieser Gegenstand 1 Nutzung.]   
-[AP:: 28]  
+[AP:: 33]  
 %%
