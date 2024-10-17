@@ -6,7 +6,7 @@ Diese Seite enthält die Kernmechaniken des Systems. Jedes Kapitel baut dabei au
 # 1. Merkmale  
 Ein Merkmal ist eine **kurze Formulierung**, die eine **wichtige Eigenschaft** eines Charakters beschreibt. Es kann Fähigkeiten, die Persönlichkeit oder alles andere definieren, was man als **wichtig** erachtet. Idealerweise sollte es so formuliert sein, dass du dich gut dran erinnern kannst und genau weißt, wie du den Charakter spielen sollst. Ob du es lustig, ernst oder übertrieben formulierst ist dir überlassen (kläre aber letzteres immer mit deinem Spielleiter).  
 Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nachteil genutzt werden (siehe Beispiele)  
-Merkmale sollten nicht zu detailliert sein, sondern sich auf jeweils einen Kernpunkt beschränken. In der Regel gilt, je kürzer das Merkmal, desto besser.. Ausführlichere Beschreibungen kannst du immer noch in deine Notizen schreiben.  
+Merkmale sollten nicht zu detailliert sein, sondern sich auf jeweils einen Kernpunkt beschränken. In der Regel gilt, je kürzer das Merkmal, desto besser. Ausführlichere Beschreibungen kannst du immer noch in deine Notizen schreiben.  
   
 > [!example]- Beispiele  
 > - **das Gesetz steht über allem** beschreibt nicht die Fähigkeiten, sondern die Moral des Charakters. Er würde alles tun, um die Gesetze und Regeln des Landes durchzusetzen, selbst wenn er durch seine Handlungen Leid erzeugt. Er würde diese Ungerechtigkeit natürlich immer noch erkennen, aber Ordnung zu bewahren wäre für ihn schlichtweg wichtiger.  
@@ -106,13 +106,92 @@ Die folgenden Aspekte beschreiben welches Können dein Charakter in seinem bishe
 - Erst einmal besitzt dein Charakter immer alles, was er benötigt, um seine Fertigkeiten oder Klassen auszuspielen (und er realistisch gesehen mit sich tragen kann).  
 - Außerdem besitzt er Ausrüstung, die der aktuellen Situation entspricht. Wenn sich die Charaktere also auf eine Reise begeben wollen, dann müssen Dinge wie ein Schlafsack, einfache Kochutensilien oder eine wasserdichte Plane nicht extra vermerkt werden. Auch hat dein Charakter immer genügend Proviant dabei. Die einzige Ausnahme ist, wenn der Spielleiter explizit sagt, dass ihr etwas nicht habt, wie beispielsweise Winterausrüstung für eine Reise.  
 - Er besitzt [[./Items/Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
-- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen.  (Siehe das nächste Kapitel [[! Schnellstart#3. Besondere Ausrüstung|3. Besondere Ausrüstung]] und das Kapitel [[! Schnellstart#5. Proben|5. Proben]])  
+- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen.  (Siehe das nächste Kapitel [[! Schnellstart#5. Besondere Ausrüstung|5. Besondere Ausrüstung]] und das Kapitel [[! Schnellstart#4. Proben|4. Proben]])  
   
 ---  
   
-# 3. Besondere Ausrüstung  
+# 3. Belastbarkeit und Stress  
+**Belastbarkeit** bzw. **Belastbarkeitspunkte** (**BP**) repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
+Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
+- Erleidet dein Charakter **Stress** so verliert er einen **BP**. In diesem Fall markierst du ein bisher unmarkiertes Kästchen unter **Belastbarkeitspunkte** auf deinem Charakterbogen.  
+	- Hat dein Charakter den **Stress** bei der Ausübung einer seiner Fertigkeiten oder Klassen erlitten, kannst du stattdessen auch deren **BP** markieren.  
+- Wenn dein Charakter **Stress** erleidet, aber keine unmarkierten **BP** mehr hat, hat dies narrativ schwerwiegende Konsequenzen für ihn. In diesem Fall erleidet er einen [[! Schnellstart#Nachteil|Nachteil]].  
+  
+Jeder Charakter hat 10 **BP**.  
+Jede Fertigkeit hat 2 **BP**.  
+Jede Klasse hat 4 **BP**.  
+  
+## Nachteil  
+Ein Nachteil ist ein spezielles [[! Schnellstart#1. Merkmale|Merkmal]], das die Beeinträchtigung des Charakters beschreibt.  
+- Nachteile können nicht durch eine einfache Rast entfernt werden, sondern erfordern größere Anstrengungen / Zeit / spezielle Bedingungen.  
+- Gewisse Nachteile können mit der Zeit auch schlimmer werden, wenn sie nicht behandelt werden.  
+- Genauso können Nachteile aber auch durch Aktionen abgeschwächt werden.  
+- Nachteile haben negative narrative Auswirkungen aber können unter Umständen auch vorteilhaft sein (siehe Beispiele)  
+  
+> [!example]- Beispiele  
+> - Ein **gebrochener Arm** beeinflusst alles negativ, was diesen Arm benötigt. Außerdem heilt er nicht von heute auf morgen. Wird er ignoriert oder nicht gescheit verarztet, könnte sich das ganze sogar noch verschlimmern. Ein Arzt könnte den Nachteil behandeln und zu sowas wie **stabilisierter gebrochener Arm** machen, was nicht mehr so schlimm ist, bzw. den Charakter weniger stark beeinflusst. Um diesen speziellen Nachteil loszuwerden, benötigt es Wochen der Schonung und eine gute medizinische Versorgung. Versucht der Charakter Leute davon zu überzeugen, dass er in sehr schlechter körperlicher Verfassung ist, würde ihm der gebrochene Arm natürlich helfen, da er ja tatsächlich verwundet ist.  
+> - Eine **ausgerenkte Schulter** behindert zwar alle Aktionen, die diese Schulter beanspruchen, aber könnte durch ein paar gelernte Handgriffe wieder eingerenkt werden. Es benötigt nur jemanden, der dies kann.  
+> - Ist ein **Kopfgeld** auf einen Charakter ausgesetzt, sollte dieser sich lieber bedeckt halten. Dieser Nachteil würde mechanisch wahrscheinlich wenig beeinflussen, aber dafür narrativ umso mehr. In der Öffentlichkeit könnten ihn Kopfgeldjäger, Wachen oder sogar das einfache Volk als gesuchte Person erkennen. Ein Kopfgeld loszuwerden könnte auf unterschiedliche Weise erreicht werden. Man könnte den Auftraggeber erledigen, mit ihm verhandeln oder sich, wie jeder normale Mensch es machen würde, einer Gesichtsoperation unterziehen.  
+  
+### Gegenstände mit Nachteil  
+Gegenstände können auch Nachteile erhalten.   
+- Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#5. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
+  
+> [!example]- Beispiel  
+> - Ein **angeknackster** Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
+> - Ist der Stab ganz **gebrochen**, kann er nicht mehr zum Zaubern genutzt werden.  
+  
+> [!tip]- Kreativität und Improvisation  
+> Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird und sich dann als Vorteilhaft erweist.  
+> Ein Lasergewehr mit **defektem Kühlsystem**, könnte absichtlich zum Überhitzen gebracht werden, um ein Feuer zu entzünden oder das wärmegesteuerte Zielsuchsystem einer Rakete zu täuschen.  
+  
+## Tod / Aus dem Abenteuer ausscheiden  
+Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus. Die genaue Art und Weise, wie dies geschieht, liegt im Ermessen des Spielleiters. Der Charakter könnte sterben, sich zur Ruhe setzen, nachts fliehen, seinen Tod vortäuschen oder dem Wahnsinn verfallen – dies sind nur einige Beispiele. Der Spieler sollte keinen direkten Einfluss darauf haben, wie das Ende seines Charakters gestaltet wird, es sollte ihm aber erlaubt werden eine letzte Sache zu sagen.  
+  
+## Rasten  
+Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.  
+- **(Normale) Rast**: Erfordert ~10 Stunden Ruhe, davon ~8 Stunden Schlaf. Während dieser Zeit kann man Gegenstände wie [[./Items/Gute Verpflegung|Gute Verpflegung]] nutzen, um **BP** zu regenerieren.  
+- **Lange Rast**: Wenn ein Charakter eine ganze Woche in der Unterkunft einer Stadt rastet, regeneriert er sämtliche fehlenden **BP** und Nutzungen seiner Ausrüstung  
+  
+---  
+  
+# 4. Proben  
+1. Beschreibe, was du versuchen möchtest. Am besten schon mit der Klasse, Fertigkeit und / oder Eigenschafen die du dafür nutzen willst.  
+2. Der Spielleiter teilt dir daraufhin mit, wie viele Erfolge du zum Bestehen würfeln musst.  
+3. Du baust dir deinen Würfelpool (aus w6) zusammen.  
+	- **2 Würfel** hast du standardmäßig  
+	- Hast du eine passende **Fertigkeit oder Klasse**, die die Probe positiv beeinflusst, so erhältst du **für jedes Level** in dieser einen **weiteren Würfel**.  
+		- Es kann immer nur eine Fertigkeit oder Klasse für die Probe verwendet werden.  
+	- Ist mindestens eine **Charaktereigenschaft** für die Probe relevant, so erhältst du genau **einen Würfel**  
+	- Wird der Charakter von jemand anderem **unterstützt**, so erhältst du **einen Würfel**.  
+	- Sofern dein Charakter mindestens 1 Nachteil hat, der die Probe negativ beeinflusst, wird sein **Würfelpool halbiert** (aufgerundet). Das trifft auch zu, wenn dein Charakter einen Gegenstand mit einem hinderlichen Nachteil benutzt. Die Anzahl der Nachteile ist dabei egal. Der Würfelpool kann nur einmal halbiert werden.  
+	- weitere Anpassungen des Würfelpools liegen im Ermessen des Spielleiters.  
+4. Dann würfelst du deinen Würfelpool und zählst die Erfolge  
+	- Jeder Würfel, der eine **3, 4 oder 5** zeigt, gilt als **ein Erfolg**  
+	- Jede **6** gilt als **zwei Erfolge**  
+	- Jede **1 reduziert die Erfolge um einen**  
+5. Nenne dem Spielleiter die Summe der Erfolge die du geworfen hast und er beschreibt, was daraufhin passiert.  
+	- Ist die Probe ein Fehlschlag, so erleidet dein Charakter einen Punkt **Stress**.   
+	- Ist die Summer der Erfolge **0 oder negativ**, so gilt die Probe als **Patzer** und der Charakter erleidet zusätzlichen **Stress** in Höhe der negativen Summe der Erfolge. Außerdem scheitert das Versuchte auf spektakuläre Weise und es passiert narrativ möglicherweise etwas, was die aktuelle Situation der Charaktere verschlechtert.  
+	- Bietet es die Situation an, kann der Spielleiter auch dich dazu auffordern, zu beschreiben, was geschieht. Bleibe bei deiner Beschreibung realistisch, außer der Spielleiter gibt dir die Erlaubnis, ausgefallen zu werden  
+  
+> [!example]- Zusätzliche negative Auswirkungen  
+> - Die Aktion geht nach hinten los und schadet deinen Verbündeten  
+> - Eine neue Gefahr erscheint  
+> - Die aktuelle Gefahr wird schlimmer  
+> - Du verlierst die Oberhand in der Situation  
+> - Du verlierst oder zerstörst etwas  
+> - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
+> - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
+  
+## Unterstützen  
+Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
+  
+---  
+  
+# 5. Besondere Ausrüstung  
 Neben normalen Gegenständen, wie einem Set zum Schlösser knacken, gibt es auch besondere Gegenstände und Ausrüstung, die spezielle Effekte besitzen.  
-Diese Effekte können jedoch nicht beliebig oft eingesetzt werden, sondern sind an die Werte des Gegenstandes geknüpft. (Es wäre im folgenden erforderlich, dass du verstehst wie [[! Schnellstart#5. Proben|5. Proben]] funktionieren)  
+Diese Effekte können jedoch nicht beliebig oft eingesetzt werden, sondern sind an die Werte des Gegenstandes geknüpft.  
   
 > [!info]- Normale Nutzung eines Gegenstandes  
 > Waffen und auch einige weitere Gegenstände können ihre normalen Funktion auch dann weiterhin nutzen, wenn der Effekt des Gegenstand nicht mehr genutzt werden kann.  
@@ -154,85 +233,6 @@ Jeder Gegenstand regeneriert nach einer Rast bei der [[./Items/Gute Verpflegung|
   
 ---  
   
-# 4. Belastbarkeit und Stress  
-**Belastbarkeit** bzw. **Belastbarkeitspunkte** (**BP**) repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
-Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
-- Erleidet dein Charakter **Stress** so verliert er einen **BP**. In diesem Fall markierst du ein bisher unmarkiertes Kästchen unter **Belastbarkeitspunkte** auf deinem Charakterbogen.  
-	- Hat dein Charakter den **Stress** bei der Ausübung einer seiner Fertigkeiten oder Klassen erlitten, kannst du stattdessen auch deren **BP** markieren.  
-- Wenn dein Charakter **Stress** erleidet, aber keine unmarkierten **BP** mehr hat, hat dies narrativ schwerwiegende Konsequenzen für ihn. In diesem Fall erleidet er einen [[! Schnellstart#Nachteil|Nachteil]].  
-  
-Jeder Charakter hat 10 **BP**.  
-Jede Fertigkeit hat 2 **BP**.  
-Jede Klasse hat 4 **BP**.  
-  
-## Nachteil  
-Ein Nachteil ist ein spezielles [[! Schnellstart#1. Merkmale|Merkmal]], das die Beeinträchtigung des Charakters beschreibt.  
-- Nachteile können nicht durch eine einfache Rast entfernt werden, sondern erfordern größere Anstrengungen / Zeit / spezielle Bedingungen.  
-- Gewisse Nachteile können mit der Zeit auch schlimmer werden, wenn sie nicht behandelt werden.  
-- Genauso können Nachteile aber auch durch Aktionen abgeschwächt werden.  
-- Nachteile haben negative narrative Auswirkungen aber können unter Umständen auch vorteilhaft sein (siehe Beispiele)  
-  
-> [!example]- Beispiele  
-> - Ein **gebrochener Arm** beeinflusst alles negativ, was diesen Arm benötigt. Außerdem heilt er nicht von heute auf morgen. Wird er ignoriert oder nicht gescheit verarztet, könnte sich das ganze sogar noch verschlimmern. Ein Arzt könnte den Nachteil behandeln und zu sowas wie **stabilisierter gebrochener Arm** machen, was nicht mehr so schlimm ist, bzw. den Charakter weniger stark beeinflusst. Um diesen speziellen Nachteil loszuwerden, benötigt es Wochen der Schonung und eine gute medizinische Versorgung. Versucht der Charakter Leute davon zu überzeugen, dass er in sehr schlechter körperlicher Verfassung ist, würde ihm der gebrochene Arm natürlich helfen, da er ja tatsächlich verwundet ist.  
-> - Eine **ausgerenkte Schulter** behindert zwar alle Aktionen, die diese Schulter beanspruchen, aber könnte durch ein paar gelernte Handgriffe wieder eingerenkt werden. Es benötigt nur jemanden, der dies kann.  
-> - Ist ein **Kopfgeld** auf einen Charakter ausgesetzt, sollte dieser sich lieber bedeckt halten. Dieser Nachteil würde mechanisch wahrscheinlich wenig beeinflussen, aber dafür narrativ umso mehr. In der Öffentlichkeit könnten ihn Kopfgeldjäger, Wachen oder sogar das einfache Volk als gesuchte Person erkennen. Ein Kopfgeld loszuwerden könnte auf unterschiedliche Weise erreicht werden. Man könnte den Auftraggeber erledigen, mit ihm verhandeln oder sich, wie jeder normale Mensch es machen würde, einer Gesichtsoperation unterziehen.  
-  
-### Gegenstände mit Nachteil  
-Gegenstände können auch Nachteile erhalten.   
-- Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#3. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
-  
-> [!example]- Beispiel  
-> - Ein **angeknackster** Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
-> - Ist der Stab ganz **gebrochen**, kann er nicht mehr zum Zaubern genutzt werden.  
-  
-> [!tip]- Kreativität und Improvisation  
-> Bei beispielsweise magischen oder technischen Gegenständen könnte ein Nachteil auch dazu führen, dass der Gegenstand mit etwas Improvisation Zweckentfremdet wird und sich dann als Vorteilhaft erweist.  
-> Ein Lasergewehr mit **defektem Kühlsystem**, könnte absichtlich zum Überhitzen gebracht werden, um ein Feuer zu entzünden oder das wärmegesteuerte Zielsuchsystem einer Rakete zu täuschen.  
-  
-## Tod / Aus dem Abenteuer ausscheiden  
-Hat ein Charakter mehr als **6** Nachteile, so scheidet er aus dem Abenteuer aus. Die genaue Art und Weise, wie dies geschieht, liegt im Ermessen des Spielleiters. Der Charakter könnte sterben, sich zur Ruhe setzen, nachts fliehen, seinen Tod vortäuschen oder dem Wahnsinn verfallen – dies sind nur einige Beispiele. Der Spieler sollte keinen direkten Einfluss darauf haben, wie das Ende seines Charakters gestaltet wird, es sollte ihm aber erlaubt werden eine letzte Sache zu sagen.  
-  
-## Rasten  
-Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.  
-- **(Normale) Rast**: Erfordert ~10 Stunden Ruhe, davon ~8 Stunden Schlaf. Während dieser Zeit kann man Gegenstände wie [[./Items/Gute Verpflegung|Gute Verpflegung]] nutzen, um **BP** zu regenerieren.  
-- **Lange Rast**: Wenn ein Charakter eine ganze Woche in der Unterkunft einer Stadt rastet, regeneriert er sämtliche fehlenden **BP** und Nutzungen seiner Ausrüstung  
-  
----  
-  
-# 5. Proben  
-1. Beschreibe, was du versuchen möchtest. Am besten schon mit der Klasse, Fertigkeit und / oder Eigenschafen die du dafür nutzen willst.  
-2. Der Spielleiter teilt dir daraufhin mit, wie viele Erfolge du zum Bestehen würfeln musst.  
-3. Du baust dir deinen Würfelpool (aus w6) zusammen.  
-	- **2 Würfel** hast du standardmäßig  
-	- Hast du eine passende **Fertigkeit oder Klasse**, die die Probe positiv beeinflusst, so erhältst du **für jedes Level** in dieser einen **weiteren Würfel**.  
-		- Es kann immer nur eine Fertigkeit oder Klasse für die Probe verwendet werden.  
-	- Ist mindestens eine **Charaktereigenschaft** für die Probe relevant, so erhältst du genau **einen Würfel**  
-	- Wird der Charakter von jemand anderem **unterstützt**, so erhältst du **einen Würfel**.  
-	- Sofern dein Charakter mindestens 1 Nachteil hat, der die Probe negativ beeinflusst, wird sein **Würfelpool halbiert** (aufgerundet). Das trifft auch zu, wenn dein Charakter einen Gegenstand mit einem hinderlichen Nachteil benutzt. Die Anzahl der Nachteile ist dabei egal. Der Würfelpool kann nur einmal halbiert werden.  
-	- weitere Anpassungen des Würfelpools liegen im Ermessen des Spielleiters.  
-4. Dann würfelst du deinen Würfelpool und zählst die Erfolge  
-	- Jeder Würfel, der eine **3, 4 oder 5** zeigt, gilt als **ein Erfolg**  
-	- Jede **6** gilt als **zwei Erfolge**  
-	- Jede **1 reduziert die Erfolge um einen**  
-5. Nenne dem Spielleiter die Summe der Erfolge die du geworfen hast und er beschreibt, was daraufhin passiert.  
-	- Ist die Probe ein Fehlschlag, so erleidet dein Charakter einen Punkt **Stress**.   
-	- Ist die Summer der Erfolge **0 oder negativ**, so gilt die Probe als **Patzer** und der Charakter erleidet zusätzlichen **Stress** in Höhe der negativen Summe der Erfolge. Außerdem scheitert das Versuchte auf spektakuläre Weise und es passiert narrativ möglicherweise etwas, was die aktuelle Situation der Charaktere verschlechtert.  
-	- Bietet es die Situation an, kann der Spielleiter auch dich dazu auffordern, zu beschreiben, was geschieht. Bleibe bei deiner Beschreibung realistisch, außer der Spielleiter gibt dir die Erlaubnis, ausgefallen zu werden  
-  
-> [!example]- Zusätzliche negative Auswirkungen  
-> - Die Aktion geht nach hinten los und schadet deinen Verbündeten  
-> - Eine neue Gefahr erscheint  
-> - Die aktuelle Gefahr wird schlimmer  
-> - Du verlierst die Oberhand in der Situation  
-> - Du verlierst oder zerstörst etwas  
-> - Du erhältst direkt einen [[! Schnellstart#Nachteil|Nachteil]]  
-> - Einer deiner [[! Schnellstart#Nachteil|Nachteile]] wird schlimmer  
-  
-## Unterstützen  
-Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Charakter eine Klasse oder Fertigkeit, die dies rechtfertigt. Der Spielleiter entscheidet dann, ob du unterstützen darfst. Ist dies der Fall, so erhält der Spieler einen zusätzlichen Würfel für seine Probe.  
-  
----  
-  
 # 6. Kämpfe  
 Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden)  
   
@@ -250,7 +250,7 @@ Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren
 >  
 > Man kann Kämpfe auch so führen, dass pro Runde jeweils nur 1 Spieler einen Zug ausführt. Dann führt als Folge auch nur 1 Gegner einen Zug aus und man kann besser auf die Gegner Aktionen reagieren.  
   
-Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#5. Proben|Probe]].   
+Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#4. Proben|Probe]].   
 **Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** Daher gibt es in diesem System auch keine kritischen Erfolge, denn du selbst kannst beeinflussen, wie anspruchsvoll eine Probe ist.  
 **Auch kluge Aktionen können eine größere Auswirkung auf den Kampf haben ohne dabei sonderlich erschwert zu werden.** (Siehe Beispiele)  
 Willst du mit einem anderen Spielercharakter zusammenarbeiten, könnt ihr eure Züge gemeinsam nehmen.  
