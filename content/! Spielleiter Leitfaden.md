@@ -93,7 +93,7 @@ In Wettkämpfen sollten Charaktere keine **BP** verlieren und auch keine wirklic
   
   
 # Kämpfe Erweitert  
-Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen die Spieler diese durch [[./! Schnellstart#5. Proben|Proben]] auf 0 reduzieren.  
+Für einen Kampf werden der Einfachheit halber alle **BP** der Gegner addiert. Um den Kampf zu gewinnen, müssen die Spieler diese durch [[./! Schnellstart#4. Proben|Proben]] auf 0 reduzieren.  
   
 ## Anzahl SP  
 Als Spielleiter bist nicht dazu verpflichtet, deinen Spielern zu mitzuteilen, wie viele **BP** ein Kampf hat. Tatsächlich musst du das sogar nicht einmal selbst wissen. Wenn du das Gefühl hast, dass der Kampf noch nicht zu Ende sein sollte, dann ist er das auch nicht. Auf der anderen Seite, wenn deine Spieler etwas unerwartetes aber sehr cooles machen, oder etwas das rechtfertigt direkt zu gewinnen, gönne ihnen den Sieg.  
