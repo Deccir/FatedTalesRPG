@@ -9,14 +9,16 @@ tags:
   
 Ein Schildgenerator.  
 Er kann nicht mit anderen Schildgeneratoren zusammen verwendet werden.  
+**Fähigkeit**: Würfel die Probe zum Ausweichen oder Parieren erneut.  
+**Auslöser**: Physischen Schaden durch einen Angriff erlitten  
 **Nutzungen**:  1  
-**Fähigkeit**: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, aktiviert sich diese Fähigkeit und er verliert stattdessen keinen..  
 **Regeneration**: Nach einer Minute der Erholung regeneriert dieser Gegenstand 1 Nutzung  
-**AP-Kosten**: 28  
+**AP-Kosten**: 30  
   
 %%  
-[Fähigkeit:: Scheitert der Träger bei einer Probe und verliert daraufhin aufgrund von physischem Schaden einen **BP**, aktiviert sich diese Fähigkeit und er verliert stattdessen keinen..]  
+[Fähigkeit:: Würfel die Probe zum Ausweichen oder Parieren erneut.]  
+[Auslöser:: Physischen Schaden durch einen Angriff erlitten]  
 [Nutzungen:: 1]  
 [Regeneration:: Nach einer Minute der Erholung regeneriert dieser Gegenstand 1 Nutzung]   
-[AP:: 28]  
+[AP:: 30]  
 %%

@@ -8,14 +8,16 @@ tags:
 ---
   
 Eine sehr gut verarbeitetes Schwert  
+**Fähigkeit**: Füge dem Ziel den doppelten Schaden zu.  
+**Auslöser**: Erfolgreicher Angriff mit dieser Waffe  
 **Nutzungen**:  2  
-**Fähigkeit**: Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen.  
-**Regeneration**: Wird bei einer Rast [[Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.  
-**AP-Kosten**: 12  
+**Regeneration**: -  
+**AP-Kosten**: 18  
   
 %%  
-[Fähigkeit:: Führt der Träger erfolgreich eine Probe aus, in der er mit diesem Hammer angreift, so kann er diese Fähigkeit nutzen, um dem Ziel den doppelten Schaden zuzufügen.]  
+[Fähigkeit:: Füge dem Ziel den doppelten Schaden zu.]  
+[Auslöser:: Erfolgreicher Angriff mit dieser Waffe]  
 [Nutzungen:: 2]  
-[Regeneration:: Wird bei einer Rast [[../Gute Verpflegung|Gute Verpflegung]] verwendet, regeneriert auch dieser Gegenstand 1 Nutzung.]   
-[AP:: 12]  
+[Regeneration:: -]   
+[AP:: 18]  
 %%

@@ -7,13 +7,15 @@ tags:
 ---
   
 Granaten mit einem speziellen Phosphor Sprengsatz.  
+**Fähigkeit**: Alle Ziele im Explosionsradius werden in Brand gesteckt.  
+**Auslöser**: Wirf die Granate  
 **Nutzungen**:  2  
-**Fähigkeit**: Wirft der Träger diese Granate, so erleiden alle Ziele in Reichweite 1 Schaden und werden in Brand gesteckt.  
 **Regeneration**: Keine Regeneration  
 **AP-Kosten**: 20  
   
 %%  
-[Fähigkeit:: Wirft der Träger diese Granate, so erleiden alle Ziele in Reichweite 1 Schaden und werden in Brand gesteckt.]  
+[Fähigkeit:: Alle Ziele im Explosionsradius werden in Brand gesteckt.]  
+[Auslöser:: Wirf die Granate]  
 [Nutzungen:: 2]  
 [Regeneration:: Keine Regeneration]   
 [AP:: 20]  

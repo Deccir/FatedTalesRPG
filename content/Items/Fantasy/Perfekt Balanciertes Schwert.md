@@ -8,14 +8,16 @@ tags:
 ---
   
 Eine sehr gut verarbeitetes Schwert  
+**Fähigkeit**: Würfel die Probe zum Treffen erneut.  
+**Auslöser**: Ziel wurde mit einem Angriff dieser Waffe verfehlt  
 **Nutzungen**:  1  
-**Fähigkeit**: Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.  
 **Regeneration**: Nachdem der Träger sich einen Zug auf den nächsten Angriff vorbereitet hat  
-**AP-Kosten**: 13  
+**AP-Kosten**: 18  
   
 %%  
-[Fähigkeit:: Führt der Träger eine Probe aus, in der er mit diesem Schwert angreift und diese schlägt fehl, so kann er diese Fähigkeit nutzen, die Probe erneut zu würfeln.]  
+[Fähigkeit:: Würfel die Probe zum Treffen erneut.]  
+[Auslöser:: Ziel wurde mit einem Angriff dieser Waffe verfehlt]  
 [Nutzungen:: 1]  
 [Regeneration:: Nachdem der Träger sich einen Zug auf den nächsten Angriff vorbereitet hat]  
-[AP:: 13]  
+[AP:: 18]  
 %%

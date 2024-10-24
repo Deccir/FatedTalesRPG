@@ -4,8 +4,9 @@ share: true
 Diese Seite enthält die Kernmechaniken des Systems. Jedes Kapitel baut dabei auf den vorherigen auf.  
   
 # 1. Merkmale  
-Ein Merkmal ist eine **kurze Formulierung**, die eine **wichtige Eigenschaft** eines Charakters beschreibt. Es kann Fähigkeiten, die Persönlichkeit oder alles andere definieren, was man als **wichtig** erachtet. Idealerweise sollten sie so formuliert sein, dass du dich gut an sie erinnern kannst und genau weißt, wie du den Charakter spielen sollst. Ob du sie lustig, ernst oder übertrieben formulierst ist dir überlassen (kläre aber letzteres immer mit deinem Spielleiter).  
+Ein Merkmal ist eine **kurze Formulierung**, die eine **wichtige Eigenschaft** eines Charakters beschreibt. Es kann Fähigkeiten, die Persönlichkeit oder alles andere definieren, was man als **wichtig** erachtet. Idealerweise sollte es so formuliert sein, dass du dich gut dran erinnern kannst und genau weißt, wie du den Charakter spielen sollst. Ob du es lustig, ernst oder übertrieben formulierst ist dir überlassen (kläre aber letzteres immer mit deinem Spielleiter).  
 Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nachteil genutzt werden (siehe Beispiele)  
+Merkmale sollten nicht zu detailliert sein, sondern sich auf jeweils einen Kernpunkt beschränken. In der Regel gilt, je kürzer das Merkmal, desto besser. Ausführlichere Beschreibungen kannst du immer noch in deine Notizen schreiben.  
   
 > [!example]- Beispiele  
 > - **das Gesetz steht über allem** beschreibt nicht die Fähigkeiten, sondern die Moral des Charakters. Er würde alles tun, um die Gesetze und Regeln des Landes durchzusetzen, selbst wenn er durch seine Handlungen Leid erzeugt. Er würde diese Ungerechtigkeit natürlich immer noch erkennen, aber Ordnung zu bewahren wäre für ihn schlichtweg wichtiger.  
@@ -15,6 +16,7 @@ Merkmale geben dir in der Regel einen Vorteil, können aber auch zu deinem Nacht
   
 # 2. Charaktererstellung  
 Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder entsprechend der folgenden Beschreibungen mit [[! Schnellstart#1. Merkmale|Merkmalen]].  
+Merkmale sollten sich nicht doppeln.   
   
 ## Wer ist dein Charakter (Charaktereigenschaften)  
 - **Ziele (1 Stück)**: Was will dein Charakter erreichen? Was motiviert ihn dazu, jeden Tag weiterzumachen? Warum hat er sich entschieden, ein Abenteurer zu werden? Was erhofft er sich am Ende seiner Reise?  
@@ -29,18 +31,18 @@ Fülle auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] die Felder ents
 > [!example] [[./Beispielmerkmale|Hier ein paar Beispiele]]   
   
 ## Auf welchem Level ist dein Charakter  
-Zu Beginn des Abenteuers legt der Spielleiter fest, wie erfahren eure Charaktere sind, und wie gut ihre Ausrüstung ist. Dies beeinflusst die Menge von **Erfahrungspunkten** und **Ausrüstungspunkte**, die euch zu Beginn zur Verfügung stehen.   
+Zu Beginn des Abenteuers legt der Spielleiter fest, wie erfahren eure Charaktere sind, und wie gut ihre Ausrüstung ist. Dies beeinflusst die Menge von **Erfahrungspunkten** und **Ausrüstungspunkten**, die euch zu Beginn zur Verfügung stehen.   
   
 - **Erfahrungspunkte (EP)** kannst du gegen Level in Fertigkeiten und Klassen eintauschen. Sie können nicht auf andere Charaktere übertragen werden.  
-- **Ausrüstungspunkte (AP)** kannst du gegen weitere Ausrüstung eintauschen. Sie können beliebig zwischen Charakteren übertragen werden.  
+- **Ausrüstungspunkte (AP)** kannst du gegen Ausrüstung mit besonderen Effekten eintauschen. Sie können beliebig zwischen Charakteren übertragen werden. Siehe es als Geld an, welches ausschließlich für besondere Gegenstände verwendet werden kann.  
   
 > [!info] [[./! Schnellstart Erweitert#Charakter- und Ausrüstungslevel|Charakter- und Ausrüstungslevel Tabellen]]   
   
 ## Was kann dein Charakter (Charakterfähigkeiten)  
-Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter diese Dinge kann.  
+Die folgenden Aspekte beschreiben welches Können dein Charakter in seinem bisherigen Leben erworben hat und in Zukunft durch Übung noch weiter verbessern kann. Daher haben folgende Merkmale jeweils ein Level, welches beschreibt, wie gut er diese Aktionen ausführen kann.  
   
 - **Klasse (2 Stück)**: Die Klassen deines Charakters beschreiben größere Themengebiete, in denen er gut ist.  
-	- Welchen Beruf hat dein Charakter ausgeübt? Hat er magische Veranlagungen oder technische Implantate, die ihm besondere Fähigkeiten geben? Hat er aufgrund seiner Spezies oder seiner Herkunft besondere Fähigkeiten?  
+	- Welchen Beruf hat dein Charakter gelernt oder ausgeübt? Hat er magische Veranlagungen oder technische Implantate, die ihm besondere Kräfte geben? Hat er aufgrund seiner Spezies oder seiner Herkunft besondere Fähigkeiten oder eine besondere Ausbildung erhalten? Dir sollten mindestens 3 Situationen einfallen, in denen dir ein jeweils anderer Aspekt diese Klasse nützlich sein kann. (siehe Beispiele)   
 	- Deine Klassen starten beide auf Level 2.  
 	- Das Erhöhen des Levels einer Klasse kostet **1 EP**  
 	- Voraussetzungen für Level 3+:  
@@ -59,11 +61,30 @@ Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter die
 > [!example]- Beispiele  
 > Klassen:  
 > - Erforscher vergessener Zivilisationen (Archäologe)  
+> 	- Hat generelles Wissen über Geschichte  
+> 	- Kann sehr präzise Arbeiten  
+> 	- Kann alte Sprachen übersetzen  
 > - Arzt des kleinen Mannes (Wundarzt / Bader)  
+> 	- Kann Leuten Dinge aufschwatzen  
+> 	- Kann Wunden grundlegend versorgen  
+> 	- Hat Wissen über Krankheiten und Heilverfahren  
 > - Feuer ist ein Teil meines Körpers (Feuermagier)  
+> 	- Kann mit Feuerbällen angreifen  
+> 	- Kann Gegenstände erhitzen  
+> 	- Kann vielleicht Flammen in der Nähe kontrollieren  
+> 	- Kann Licht spenden  
 > - Geldeintreiber der Mafia  
+> 	- Kann gut verhandeln, einschüchtern und Körpersprache lesen  
+> 	- Kann mit Waffen umgehen  
+> 	- Kann unauffällig operieren oder weiß, wie er Polizisten ablenken kann   
 > - Fischerjunge  
-> - Nicht mehr durch sein Fleisch zurückgehalten (Kybernetische Implantate für übermenschliche Kraft)  
+> 	- Kann Boote steuern  
+> 	- Kann Schwimmen  
+> 	- Kann Angeln und Fischen  
+> - Nicht mehr durch sein Fleisch zurückgehalten (Kybernetische Implantate)  
+> 	- Besitzt körperliche Stärke  
+> 	- Besitzt bessere Reaktionsfähigkeiten  
+> 	- Kann sich direkt mit Computern verbinden  
 >   
 > Fertigkeiten:  
 > - Klettern  
@@ -82,49 +103,14 @@ Folgende Felder haben jeweils Level, die beschreiben, wie gut dein Charakter die
 > Dies dient dazu verschiedene Auslegungen einer Fertigkeit zu verhindern (In Morriton Manor kam es ja zu der Frage ob **Duellieren** nur den Kampf im geregelten Duell beschreibt oder ob es auch allgemeines Kämpfen umfasst.)  
   
 ## Was besitzt dein Charakter  
-- Erst einmal besitzt dein Charakter immer alles (was man realistisch gesehen mit sich tragen kann), was er benötigt, um seine Fertigkeiten oder Klassen auszuspielen.  
-- Außerdem besitzt er **Grundlegende Reiseausrüstung**, wie einen Schlafsack, einfache Kochutensilien, eine wasserdichte Plane und Reisekleidung. Auch hat dein Charakter immer genügend Proviant dabei. (Diese Dinge müssen nicht extra notiert werden)  
+- Erst einmal besitzt dein Charakter immer alles, was er benötigt, um seine Fertigkeiten oder Klassen auszuspielen (und er realistisch gesehen mit sich tragen kann).  
+- Außerdem besitzt er Ausrüstung, die der aktuellen Situation entspricht. Wenn sich die Charaktere also auf eine Reise begeben wollen, dann müssen Dinge wie ein Schlafsack, einfache Kochutensilien oder eine wasserdichte Plane nicht extra vermerkt werden. Auch hat dein Charakter immer genügend Proviant dabei. Die einzige Ausnahme ist, wenn der Spielleiter explizit sagt, dass ihr etwas nicht habt, wie beispielsweise Winterausrüstung für eine Reise.  
 - Er besitzt [[./Items/Gute Verpflegung|Gute Verpflegung]]. Diese ist bereits auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] mit Beschreibung vermerkt und dient auf längeren Reisen zur Regeneration.  
-- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen.  (Siehe das nächste Kapitel [[! Schnellstart#3. Besondere Ausrüstung|3. Besondere Ausrüstung]])  
+- Zusätzlich kann er bis zu 6 weitere Gegenstände, mit besonderen Effekten, bei sich tragen.  (Siehe das nächste Kapitel [[! Schnellstart#5. Besondere Ausrüstung|5. Besondere Ausrüstung]] und das Kapitel [[! Schnellstart#4. Proben|4. Proben]])  
   
 ---  
   
-# 3. Besondere Ausrüstung  
-Neben normalen Gegenständen, wie einem Set zum Schlösser knacken, gibt es auch besondere Gegenstände und Ausrüstung, die spezielle Effekte besitzen.  
-Solche Gegenstände haben dann in der Regel eine bestimmte Anzahl von Nutzungen, die bei der Verwendung ihrer besonderen Effekte verbraucht werden.  
-  
-Jeder Gegenstand hat 3 Eigenschafen:  
-- Die Art des besonderen Effektes  
-- Die Anzahl der Nutzungen  
-- Wann er diese Nutzungen wiedererhält  
-  
-**Effekt:**  
-Hier ein paar Beispiele für mögliche Effekte mit den jeweiligen **AP** kosten.  
-- **3 AP**: Eine spezifische Probe neu würfeln  
-- **6 AP**: Eine spezifische Probe bestehen, obwohl sie eigentlich fehlgeschlagen ist  
-- **6 AP**: Bei einer bestandenen spezifischen Probe passiert zusätzlich etwas, was einer zweiten erfolgreichen Probe entspricht  
-- **3 AP**: Erhalte für 1 Zug +1 Würfel auf eine spezifische Probe  
-	- Verbesserung: **+3 AP für jede Nutzung**: Verlängere die Dauer des Effekts um 1 Zug  
-	- Verbesserung: **+6 AP für jede Nutzung**: Erhöhe den Würfelbonus auf +2  
-  
-**Nutzungen:**  
-- Jede weitere Nutzung kostet nochmal so viel wie der Effekt selbst.  
-  
-**Regeneration:**  
-Standardmäßig regenerieren sich alle Nutzungen automatisch nach einer Rast.  
-**AP** Kosten für die verbesserte Regeneration der Nutzungen eines Items:  
-- **10**: Eine Nutzung nach einer erfolgreichen Probe (Reparatur, Nachladen, etc.)  
-	- Verbesserung: **+10**: Für jeweils eine weitere Nutzung nach einer erfolgreichen Probe  
-- **25**: Eine Nutzung automatisch nach einer Minute  
-	- Verbesserung: **+15**: Eine Nutzung automatisch jeden Zug  
-  
-> [!example] [[./! Schnellstart Erweitert#Beispielausrüstung|Beispielausrüstung]]   
-  
-Verkaufst du einen Gegenstand erhältst du alle in ihn investierten **AP** wieder.    
-  
----  
-  
-# 4. Belastbarkeit und Stress  
+# 3. Belastbarkeit und Stress  
 **Belastbarkeit** bzw. **Belastbarkeitspunkte** (**BP**) repräsentieren die allgemeine Widerstandsfähigkeit eines Charakters gegenüber **Stress**. Sie werden durch die Kästchen auf dem [[./Assets/Charakterbogen V1.png|Charakterbogen]] dargestellt.  
 Über das Abenteuer wird dein Charakter physischen, emotionalen und auch sozialen Schaden erleiden. Dies wird alles als **Stress** zusammengefasst.   
 - Erleidet dein Charakter **Stress** so verliert er einen **BP**. In diesem Fall markierst du ein bisher unmarkiertes Kästchen unter **Belastbarkeitspunkte** auf deinem Charakterbogen.  
@@ -149,7 +135,7 @@ Ein Nachteil ist ein spezielles [[! Schnellstart#1. Merkmale|Merkmal]], das die 
   
 ### Gegenstände mit Nachteil  
 Gegenstände können auch Nachteile erhalten.   
-- Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#3. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
+- Erleidest du **Stress**, während du einen Gegenstand verwendest, so kann dieser in gewissen Situationen einen Nachteil erhalten. Besitzt der Gegenstand keine besonderen Effekte (siehe [[! Schnellstart#5. Besondere Ausrüstung|Gegenstände]]) so wird er zerstört und kann nicht mehr verwendet werden.  
   
 > [!example]- Beispiel  
 > - Ein **angeknackster** Zauberstab könnte eine 1/4 Chance haben, den Zauber auf den Anwender zurück zu werfen.  
@@ -169,7 +155,7 @@ Die einfachste Möglichkeit, um **BP** wiederherzustellen ist **Rasten**.
   
 ---  
   
-# 5. Proben  
+# 4. Proben  
 1. Beschreibe, was du versuchen möchtest. Am besten schon mit der Klasse, Fertigkeit und / oder Eigenschafen die du dafür nutzen willst.  
 2. Der Spielleiter teilt dir daraufhin mit, wie viele Erfolge du zum Bestehen würfeln musst.  
 3. Du baust dir deinen Würfelpool (aus w6) zusammen.  
@@ -203,6 +189,50 @@ Willst du jemanden anders bei seiner Probe unterstützen, so benötigt dein Char
   
 ---  
   
+# 5. Besondere Ausrüstung  
+Neben normalen Gegenständen, wie einem Set zum Schlösser knacken, gibt es auch besondere Gegenstände und Ausrüstung, die spezielle Effekte besitzen.  
+Diese Effekte können jedoch nicht beliebig oft eingesetzt werden, sondern sind an die Werte des Gegenstandes geknüpft.  
+  
+> [!info]- Normale Nutzung eines Gegenstandes  
+> Waffen und auch einige weitere Gegenstände können ihre normalen Funktion auch dann weiterhin nutzen, wenn der Effekt des Gegenstand nicht mehr genutzt werden kann.  
+> Eine Pistole, die einmalig einen **durchdringenden Schuss** abfeuern kann, kann im Anschluss ganz normal weiter schießen. Nur eben die Fähigkeit **durchdringenden Schuss** kann bis zur nächsten Rast nicht mehr verwendet werden.  
+  
+## Gegenstände entwerfen / kaufen  
+**Ausrüstungspunkte (AP)** dienen als Währung im Spiel, mit der du besondere Ausrüstungsgegenstände und deren Effekte erwerben kannst. Diese Effekte lassen sich auch im Nachhinein optimieren und anpassen. Da Kauf- und Verkaufswerte stets gleich sind, brauchst du dir keine Sorgen über falsch investierte **AP** zu machen – bei einem geeigneten Händler kannst du sie jederzeit problemlos zurücktauschen.  
+  
+**1. Art des Effekts:**  
+Wähle einen der folgenden Effekte aus, die dein Gegenstand haben soll.  
+  
+| **AP** Kosten | Effekt                                                                                      |  
+| ------------- | ------------------------------------------------------------------------------------------- |  
+| 3             | Eine Probe neu würfeln                                                                      |   
+| 9             | Eine bestandene Probe zählt wie 2 bestandene Proben                                         |  
+| 3             | Erhalte für 2 Runden +1 Würfel auf eine Art von Probe (benötigt keinen speziellen Auslöser) |  
+  
+**2. Auslöser**  
+Definiere eine spezifische Situation, in der der Effekt ausgelöst werden kann.   
+> [!example]- Beispiele  
+> - Wenn ich Fallschaden erleide  
+> - Wenn ich beim Schleichen fehlschlage  
+> - Wenn ich den Gegner erfolgreich mit meinem Angriff getroffen habe  
+  
+**3. Nutzungen:**  
+Entscheide wie häufig der Effekt genutzt werden kann.   
+Jede weitere Nutzung wird dabei wie ein weiterer Effekt gehandhabt und kostet entsprechend auch so viel.  
+  
+**4. Regeneration:**  
+Jeder Gegenstand regeneriert nach einer Rast bei der [[./Items/Gute Verpflegung|Gute Verpflegung]] genutzt wird automatisch alle Nutzungen. Für einen Aufpreis kann der Gegenstand seine Nutzungen zusätzlich auch in anderen Situationen regenerieren.  
+  
+| **AP** Kosten | Regeneriert 1 Nutzung:                                       | Einschränkung             |  
+| ------------- | ------------------------------------------------------------ | ------------------------- |  
+| 15            | Nach einer erfolgreichen Probe (Reparatur, Nachladen, etc.). | Max. 1 Mal alle 5 Minuten |   
+| 35            | Nach einer Minute                                            |                           |  
+| 50            | Jede Runde (im Kampf) / alle paar Sekunden                   |                           |  
+  
+> [!example] [[./! Schnellstart Erweitert#Beispielausrüstung|Beispielausrüstung]]   
+  
+---  
+  
 # 6. Kämpfe  
 Kämpfe sind Stresssituationen, in denen Proben schnell aufeinander folgen. Man muss Kämpfe nicht gewaltsam führen, sondern kann sie auch durch beispielsweise Redekunst oder intelligentes Vorgehen bestreiten. (Eine Gerichtsverhandlung könnte auch wie ein Kampf geführt werden)  
   
@@ -220,7 +250,7 @@ Zuerst bestimmt der Spielleiter, ob Spielercharaktere oder Gegner zuerst agieren
 >  
 > Man kann Kämpfe auch so führen, dass pro Runde jeweils nur 1 Spieler einen Zug ausführt. Dann führt als Folge auch nur 1 Gegner einen Zug aus und man kann besser auf die Gegner Aktionen reagieren.  
   
-Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#5. Proben|Probe]].   
+Während deines Zuges kann dein Charakter jede Aktion tätigen, die er möchte (Natürlich im Rahmen des Möglichen und Logischen). In der Regel erfordert dies daraufhin eine [[! Schnellstart#4. Proben|Probe]].   
 **Je gewagter die versuchte Aktion, desto höher der Schwierigkeitsgrad aber auch der Effekt auf das Kampfgeschehen (sofern erfolgreich).** Daher gibt es in diesem System auch keine kritischen Erfolge, denn du selbst kannst beeinflussen, wie anspruchsvoll eine Probe ist.  
 **Auch kluge Aktionen können eine größere Auswirkung auf den Kampf haben ohne dabei sonderlich erschwert zu werden.** (Siehe Beispiele)  
 Willst du mit einem anderen Spielercharakter zusammenarbeiten, könnt ihr eure Züge gemeinsam nehmen.  
